@@ -21,7 +21,7 @@ Opencast is a flexible and customizable video capture and distribution system fo
 
 {% endfor %}
 
-[News Archive...](/news)
+[News Archive...](news)
 
 
 ---
@@ -31,8 +31,8 @@ Opencast is a flexible and customizable video capture and distribution system fo
 {% include fullsizebox.html 
 title="Schedule"
 description="Schedule events to automatically record based on a pre-defined timetable and, capture both video of the presenter and the  PC screen."
-image="/assets/img/schedule.png"
-linkurl="/software"
+image="assets/img/schedule.png"
+linkurl="software"
 align="left"
 backgroundcolor=site.data.colors.box
 %}
@@ -40,16 +40,16 @@ backgroundcolor=site.data.colors.box
 {% include fullsizebox.html 
 title="Edit"
 description="Bulk edit and trim video recordings. The editor provides graphical visualization of elements such as audio can significantly reduce editing time."
-image="/assets/img/edit.png"
-linkurl="/software"
+image="assets/img/edit.png"
+linkurl="software"
 align="right"
 %}
 
 {% include fullsizebox.html 
 title="Process"
 description="A scalable infrastructure to encode video, generate metadata and preview images, create captioning and bulk edit to support video processing at scale."
-image="/assets/img/events.png"
-linkurl="/software"
+image="assets/img/events.png"
+linkurl="software"
 align="left"
 backgroundcolor=site.data.colors.box
 %}
@@ -57,16 +57,16 @@ backgroundcolor=site.data.colors.box
 {% include fullsizebox.html 
 title="Distribute"
 description="Publish recordings for download or on-demand viewing via YouTube, RSS, Atom-feeds or with OAI-PMH."
-image="/assets/img/distribute.png"
-linkurl="/software"
+image="assets/img/distribute.png"
+linkurl="software"
 align="right"
 %}
 
 {% include fullsizebox.html 
 title="Playback"
 description="The media player is a standalone application or embedded on blogs, wikis or a content management system."
-image="/assets/img/playback.png"
-linkurl="/software"
+image="assets/img/playback.png"
+linkurl="software"
 align="left"
 backgroundcolor=site.data.colors.box
 %}
@@ -74,8 +74,8 @@ backgroundcolor=site.data.colors.box
 {% include fullsizebox.html 
 title="Manage"
 description="A robust dashboard to manage, configure and track the status and performance of video content and distribution channels."
-image="/assets/img/manage.png"
-linkurl="/software"
+image="assets/img/manage.png"
+linkurl="software"
 align="right"
 %}
 
@@ -85,10 +85,10 @@ align="right"
 
 # Get Involved
 
-Opencast has an active, helpful and engaging community. [Here you can find information on how to get in contact with us](/communication).
+Opencast has an active, helpful and engaging community. [Here you can find information on how to get in contact with us](communication).
 
 ---
 
 # Trusted by a Collection of Innovative Organizations including these 6 Institutions
-[<img class="center-image" src="/assets/img/opencast-homepage-logos-rev2.png">](/users)
+[<img class="center-image" src="assets/img/opencast-homepage-logos-rev2.png">](users)
 
