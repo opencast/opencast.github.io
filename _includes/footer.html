@@ -1,0 +1,12 @@
+
+<div class="footer" style="color: {{ include.textcolor | default: '#606c71' }}; background-color: {{ include.backgroundcolor | default: '#ffffff' }}">
+<div class="footer-content">
+        {% if include.linkurl %}
+        </a>
+        {% endif %}
+        {% if include.image %}
+        <img class="footer-image" src="{{ include.image }}" alt="{{ include.title }} logo" style="float:{{ include.align | default: 'right' }}; {% if  include.imagewidth %}width: {{include.imagewidth}};{% endif %}"> {% endif %} {% if include.linkurl %}
+        </a>
+        {% endif %}
+    </div>
+</div>
