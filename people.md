@@ -99,19 +99,19 @@ Thank you to the following sponsor(s) for their support to advance the Opencast 
 # Our Supporters
 These institutions have provided financial, technical, or personnel suppport to advance the Opencast project. Thank you!
 
-{% include fullsizebox.html 
+{% include fullsizebox.html
 image="/assets/img/eth-logo1.png"
 align="left"
 imagewidth="40%"
 %}
 
-{% include fullsizebox-rechts.html 
+{% include fullsizebox-rechts.html
 image="http://www.opencast.org/wp-content/uploads/2015/03/osnabruk.png"
 align="right"
 imagewidth="40%"
 %}
 
-{% include fullsizebox.html 
+{% include fullsizebox.html
 image="/assets/img/Switch600x400.jpg"
 align="left"
 imagewidth="40%"
@@ -123,7 +123,7 @@ align="right"
 imagewidth="40%"
 %}
 
-{% include fullsizebox.html 
+{% include fullsizebox.html
 image="http://www.opencast.org/wp-content/uploads/2015/03/blindside.png"
 align="left"
 imagewidth="40%"
@@ -135,20 +135,20 @@ align="right"
 imagewidth="40%"
 %}
 
-{% include fullsizebox.html 
+{% include fullsizebox.html
 image="/assets/img/UCT-round-logo.png"
 align="left"
 imagewidth="40%"
 %}
 
-{% include fullsizebox-rechts.html 
+{% include fullsizebox-rechts.html
 image="http://www.opencast.org/wp-content/uploads/2015/03/jira.png"
 align="right"
 imagewidth="40%"
 %}
 
 
-{% include fullsizebox.html 
+{% include fullsizebox.html
 image="http://www.opencast.org/wp-content/uploads/2018/01/Harvard600x400.jpg"
 align="left"
 imagewidth="40%"

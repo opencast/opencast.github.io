@@ -1,10 +1,10 @@
 ---
 title: Features
-description: Opencast offers a rich set of features to support educators, learners, video-operators and administrators.  
+description: Opencast offers a rich set of features to support educators, learners, video-operators and administrators.
 ---
 {% include software_menu.html %}
 
-{% include fullsizebox.html 
+{% include fullsizebox.html
 title="Schedule"
 description="Opencast Schedule lets you schedule an event to be automatically recorded on specific days and times of the week, and the distribution channel to which the recordings will be published.
 
@@ -19,7 +19,7 @@ align="left"
 imagewidth="40%"
 %}
 
-{% include fullsizebox.html 
+{% include fullsizebox.html
 title="Process"
 description="Opencast Process is a workflow-based system that provides a scalable infrastructure for encoding and enriching video with metadata, preview images, brands, captioning and text analysis to make the media more discoverable and accessible.
 
@@ -34,7 +34,7 @@ backgroundcolor=site.data.colors.box
 imagewidth="40%"
 %}
 
-{% include fullsizebox.html 
+{% include fullsizebox.html
 title="Distribute"
 description="With Opencast Distribute enables you to publish recordings for on-demand viewing or download. Learning tools interoperability (LTI) and RSS/Atom feeds are available for integration with other systems, and publishing to iTunes U and YouTube can be automated.
 
@@ -49,7 +49,7 @@ align="left"
 imagewidth="40%"
 %}
 
-{% include fullsizebox.html 
+{% include fullsizebox.html
 title="Playback"
 description="The Opencast player can be used as a standalone application, or embedded inside other applications like blogs, wikis or content management systems. Opencast Playback enables slide segmentation and in-video text search. All player functionality is fully accessible, supporting assistive technology across multiple platforms.
 
@@ -66,7 +66,7 @@ backgroundcolor=site.data.colors.box
 imagewidth="40%"
 %}
 
-{% include fullsizebox.html 
+{% include fullsizebox.html
 title="Manage"
 description="Opencast Manage provides a dashboard for administrators to configure the system, make bulk edits to content and metadata, track the status and performance of content and configure distribution of video content.
 

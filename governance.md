@@ -40,7 +40,7 @@ The board is composed of three categories of individuals, each with a unique sel
 - A minimum of three members who are elected by the community to serve a two-year term.
 - One member selected by the board to serve a two-year term based on his/her ability to address current needs of the community and/or the board; this seat is optional.
 - One member elected by the committers to serve a one-year term (has to be a committer).
- 
+
 *Board elections* to appoint at least three members will be held every other year at the occasion of the annual community gathering (“Opencast summit”). They will be managed by one board member and one external individual from the community invited by the board. This election committee will
 
 - communicate the upcoming election at least one month before the summit,
@@ -51,7 +51,7 @@ The board is composed of three categories of individuals, each with a unique sel
 - Each nominee will be voted upon individually with a “yes” or “no”; nominees with more “yes” votes than “no” votes are being elected to serve the board for another two years.
 The board is being voted upon by individuals representing the community, defined by their subscription to the Opencast users’ mailing list (users@opencast.org); board members have a right to participate in these elections.
 The election committee will also verify the right to vote, count all votes, communicate which board members have been elected, and keep the detailed voting results confidential.
- 
+
 
 It is the *responsibility of the board* to promote the current and future health of the community. This will require the board to assess the current state and identify areas of focus. Regardless of changing needs, the board has the following ongoing responsibilities.
 

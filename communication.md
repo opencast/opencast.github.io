@@ -12,7 +12,7 @@ description: "This is how to get in contact with the project"
 
 These are the official mailing lists of the Opencast Community. If you are seeking support for running Opencast, we would recommend to subscribe to the Opencast users list. If you are interested in general announcements, the community list is probably the list that you would like to join.
 
-{% include simplebox.html backgroundcolor=site.data.colors.box 
+{% include simplebox.html backgroundcolor=site.data.colors.box
 content="## Opencast Announcements
 
 [announcements@opencast.org](announcements@opencast.org)
@@ -20,8 +20,8 @@ content="## Opencast Announcements
 - More a newsletter, as users cannot post to this list
 - Highly recommended for everybody interested in the Opencast software and community
 - Archieve" %}
- 
-{% include simplebox.html backgroundcolor=site.data.colors.box 
+
+{% include simplebox.html backgroundcolor=site.data.colors.box
 content="## Opencast Users
 
 [users@opencast.org](users@opencast.org)
@@ -33,7 +33,7 @@ content="## Opencast Users
 **NOTE: As a community support group, all subscribers are encouraged to help out with any support needs that come across the list.**" %}
 
 
-{% include simplebox.html backgroundcolor=site.data.colors.box 
+{% include simplebox.html backgroundcolor=site.data.colors.box
 content="## Opencast Development List
 
 [dev@opencast.org](dev@opencast.org)
@@ -46,21 +46,21 @@ content="## Opencast Development List
  %}
 
 
-{% include simplebox.html backgroundcolor=site.data.colors.box 
+{% include simplebox.html backgroundcolor=site.data.colors.box
 content="## Opencast Security Notices
 
 [security-notices@opencast.org](security-notices@opencast.org)
 - For notices relating to security issues in Opencast
 - Recommended for all Opencast development team members, anyone running a Opencast instance" %}
 
-{% include simplebox.html backgroundcolor=site.data.colors.box 
+{% include simplebox.html backgroundcolor=site.data.colors.box
 content="## Opencast Security
 
 [security@opencast.org](security@opencast.org)
 - A security reporting list, allows anonymous posting but is not publicly visible
 - Use this list to report security issues to the team" %}
 
-{% include simplebox.html backgroundcolor=site.data.colors.box 
+{% include simplebox.html backgroundcolor=site.data.colors.box
 content="## Spanish-speaking community
 
 [opencast-es@opencastproject.es](opencast-es@opencastproject.es)
@@ -69,7 +69,7 @@ content="## Spanish-speaking community
 
 **NOTE: You should also be subscribed to the Community list, as some important announcements about Opencast will only be sent to the Community list. We assume everyone on this list is also on the announcements@ list**"%}
 
-{% include simplebox.html backgroundcolor=site.data.colors.box 
+{% include simplebox.html backgroundcolor=site.data.colors.box
 content="## German-speaking community
 
 [anwender@opencast.org](anwender@opencast.orgs)
@@ -78,7 +78,7 @@ content="## German-speaking community
 
 **NOTE: You should also be subscribed to the Community list, as some important announcements about Opencast will only be sent to the Community list. We assume everyone on the anwender@ list is also on the announcements@ list**"%}
 
-{% include simplebox.html backgroundcolor=site.data.colors.box 
+{% include simplebox.html backgroundcolor=site.data.colors.box
 content="## IRC Channel #opencast
 
 -On irc.freenode.net, the chat group #opencast is used around the clock for real-time assistance by both users and develoeprs.
