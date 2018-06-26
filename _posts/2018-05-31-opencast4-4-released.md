@@ -1,7 +1,7 @@
 ---
-title: Opencast 4.3 has been released
-date: 2018-03-28
-description: Opencast 4.3 is the third maintenance release for Opencast 4.0.  Opencast 4.0 focuses on end user ease-of-use to make the day-to-day lives of Adopters easier. This release has an updated asset management core enabling centralized property storage, as well as many user interface tweaks and performance improvements.
+title: Opencast 4.4 has been released
+date: 2018-05-31
+description: Opencast 4.4 is the third maintenance release for Opencast 4.0.  Opencast 4.0 focuses on end user ease-of-use to make the day-to-day lives of Adopters easier. This release has an updated asset management core enabling centralized property storage, as well as many user interface tweaks and performance improvements.
 category: release
 tags: [release, streaming, wowza, asset manager]
 ---
