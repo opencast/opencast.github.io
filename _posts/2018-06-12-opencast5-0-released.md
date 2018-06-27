@@ -4,6 +4,7 @@ date: 2018-06-12
 description: This new release includes the popular Paella Player, a new Animate service to create exciting trailers, a Live Streaming Scheduler and many more improvements.
 category: release
 tags: [release, paella, player, animate, live, scheduler, OAI-PMH, moodle]
+permalink: 2018-06-12-opencast5-0-released.html
 ---
 
 The new features for this release are:
