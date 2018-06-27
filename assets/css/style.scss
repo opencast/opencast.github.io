@@ -252,6 +252,14 @@ a.menu-item:hover {
   margin-bottom: 2rem;
 }
 
+.boxgroup a {
+  text-decoration: none;
+}
+
+.boxgroup a:hover {
+  border: 2px solid;
+}
+
 .footer {
     background-color: #0e1e25;
     width: 100%;
