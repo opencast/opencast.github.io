@@ -15,7 +15,7 @@ Some adopters of Opencast were able to provide some feedback on how they use Ope
 title=post.title
 description=post.description
 image=post.logo
-linkurl=post.url
+linkurl=post.url | remove_first:'/'
 linktext="Learn More"
 %}
 {% endif %}
