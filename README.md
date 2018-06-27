@@ -12,10 +12,10 @@ Opencast is a flexible and customizable video capture and distribution system fo
 # News
 
 {% for post in site.posts limit:5 %}
-## [{{ post.title }}]({{ post.url }})
+## [{{ post.title }}]({{ post.relative_url }})
   _{{ post.date | date_to_long_string }}_
   {{ post.description }}
-  [Read more...]({{ post.url }})
+  [Read more...]({{ post.relative_url }})
 
 ---
 
