@@ -11,7 +11,13 @@
     </a>
 {% endif %}
     <div class="fullsizebox-text">
-      <h3> {{ include.title }} </h3>
+{% if  include.linkurl %}
+      <a href="{{ include.linkurl }}">
+{% endif %}
+        <h3> {{ include.title }} </h3>
+{% if  include.linkurl %}
+      </a>
+{% endif %}
       <p>
         {{ include.description | markdownify }}
       </p>
