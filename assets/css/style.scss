@@ -16,12 +16,17 @@ li.menu-item {
 }
 
 li.sub-menu {
-  font-size: 1.2rem;
-  font-weight: 200;
+  margin-right: 0.5rem;
+  margin-left: 0px;
+  padding-top: 0px;
 }
 
 sub-menu-divider {
   margin: 0px;
+}
+
+.sub-navigation-list {
+  float: left;
 }
 
 a.nav-link {
@@ -42,7 +47,6 @@ a.sub-nav-link {
  display: block;
  text-align: center;
  text-decoration: none;
- padding-left: 1rem;
  color: #41474c;
 }
 
@@ -61,13 +65,12 @@ ul.navigation-list {
 }
 
 .menu-item {
-    margin-left: 10px;
-    font-weight: 700;
+    margin-left: 0.5rem;
     text-transform: uppercase;
     letter-spacing: 2px;
     font-family: "Lato","Helvetica Neue",Helvetica,sans-serif;
     font-style: normal;
-    font-size: 12px;
+    font-size: 0.8rem;
     float: left;
     padding-top: 2rem;
 }
