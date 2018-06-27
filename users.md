@@ -11,7 +11,7 @@ Some adopters of Opencast were able to provide some feedback on how they use Ope
 
 {% for post in site.posts %}
 {% if post.categories contains "user" %}
-{% include imagebox.html 
+{% include imagebox.html
 title=post.title
 description=post.description
 image=post.logo

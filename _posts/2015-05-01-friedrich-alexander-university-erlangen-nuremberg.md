@@ -1,7 +1,7 @@
 ---
 title: Friedrich-Alexander-University Erlangen-Nuremberg
 date: 2015-05-01
-description: The Friedrich-Alexander-University Erlangen-Nuremberg is one of Germanys largest universities and has a long tradition in lecture recordings. 
+description: The Friedrich-Alexander-University Erlangen-Nuremberg is one of Germanys largest universities and has a long tradition in lecture recordings.
 category: user
 tags: [user]
 logo: /assets/img/fau-logo.png

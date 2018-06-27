@@ -8,7 +8,7 @@ logo: /assets/img/logo-ugent.png
 ---
 
 ## Project Goals
- 
+
 
 Provide an easy to use, flexible and cost effective lecture capture solution to our teachers. Prior to this project no lecture capture solution was available and individual efforts with video recordings were made available on a central streaming server ( Darwin streaming server ).
 

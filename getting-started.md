@@ -8,7 +8,7 @@ description: "These information helps you to get started!"
 
 # [Try it!](https://stable.opencast.org/){:target="_blank"}
 
-There is a demo instance of the Opencast system available. If you want to get an impression on how Opencast is working try this system. You can try whatever you want, as the system gets cleaned up every 24 hours. The credentials for an admin user are automatically set. 
+There is a demo instance of the Opencast system available. If you want to get an impression on how Opencast is working try this system. You can try whatever you want, as the system gets cleaned up every 24 hours. The credentials for an admin user are automatically set.
 There are a few demo videos included by default that can be seen by everybody in the Media Module.
 
 [Admin UI](https://stable.opencast.org/){:target="_blank"}
@@ -22,7 +22,7 @@ The Opencast software runs on Linux or MacOS servers. There are repositories wit
 
 # [Use it!](https://docs.opencast.org/){:target="_blank"}
 
-The Opencast documentation consist of three documents for each release: 
+The Opencast documentation consist of three documents for each release:
 * The Admin documentation provides information on how to install, setup and configure Opencast.
 * The User documentation explains the UI and processes of Opencast.
 * The Developer UI contains information on the general development process and the technologies used in Opencast.
