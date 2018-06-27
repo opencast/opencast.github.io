@@ -28,7 +28,7 @@ description="Opencast Process is a workflow-based system that provides a scalabl
 - Advanced media analysis, including video OCR that extracts time-synched metadata from slides
 - Powerful search capabilities for static, dynamic, and user-generated metadata
 - Administrative dashboard for monitoring and management of media life cycle"
-image="/assets/img/large-process.jpg"
+image="assets/img/large-process.jpg"
 align="right"
 backgroundcolor=site.data.colors.box
 imagewidth="40%"
@@ -44,7 +44,7 @@ description="With Opencast Distribute enables you to publish recordings for on-d
 - Distribution via RSS/Atom to learning management systems
 - Automated publishing to iTunes U and YouTube
 - Custom workflows to enable distribution and archiving to local or distribution servers"
-image="/assets/img/large-distribute.jpg"
+image="assets/img/large-distribute.jpg"
 align="left"
 imagewidth="40%"
 %}

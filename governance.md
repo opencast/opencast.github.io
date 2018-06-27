@@ -6,7 +6,7 @@ description: Rules and regulations how the Opencast community is organized.
 
 Opencast as a community and the related software development project have their rules and regulations.
 The community elects a board that should care about the health and status of the project and the community. The board organizes events like the Opencast conference or cares for the marketing. It also manages to funds of the projects.
-[More information on the current board can be found here.](/people#board)
+[More information on the current board can be found here.](people#board)
 The software development project is lead by a groups of committers. Committers can decide on which new features will be merged into an upcoming version or decide on proposals regarding the future development of software. They also have obligations. Developers for example have to review patches for the software.
 A contributor to Opencast (that may be an developer, but other contributions like testing and improving documentation or processes can also qualify) can be proposed as a new committer to the project by an existing committer. After this proposal the other committers can vote for the applicant.
 
