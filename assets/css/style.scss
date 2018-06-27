@@ -26,7 +26,7 @@ sub-menu-divider {
 }
 
 .sub-navigation-list {
-  float: left;
+  float: left !important;
 }
 
 a.nav-link {
@@ -48,6 +48,7 @@ a.sub-nav-link {
  text-align: center;
  text-decoration: none;
  color: #41474c;
+ padding-right: 1rem;
 }
 
 a.sub-nav-link:hover {
