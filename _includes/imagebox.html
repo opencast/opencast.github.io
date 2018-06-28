@@ -1,7 +1,7 @@
 <div class="imagebox imagebox-{{include.format | default: 'regular'}}" style="color: {{ include.textcolor | default: '#606c71' }}; background-color: {{ include.backgroundcolor | default: '#ffffff' }}">
   <div class="imagebox-content imagebox-content-{{include.format | default: 'regular'}}">
 {% if  include.linkurl %}    
-    <a href="{{ include.linkurl }}">
+    <a href="{{ include.linkurl | remove_first:'/' }}">
 {% endif %}       
       <img class="imagebox-image" src="{{ include.image }}" alt="{{ include.title }} logo" >
 {% if  include.linkurl %}
@@ -14,7 +14,7 @@
   </div>
 {% if  include.linktext %}  
   <div class="imagebox-link">
-    <a href="{{ include.linkurl }}"> {{ include.linktext }}</a>
+    <a href="{{ include.linkurl | remove_first:'/' }}"> {{ include.linktext }}</a>
   </div>
 {% endif %}   
 </div>
