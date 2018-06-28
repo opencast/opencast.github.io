@@ -250,13 +250,13 @@ a.menu-item:hover {
   border: 1px solid;
   box-shadow: 7px 7px 10px 2px rgba(0, 0, 0, 0.15);
   margin-bottom: 2rem;
-}
-
-.boxgroup a {
-  text-decoration: none;
-  &:hover {
-    border: 2px solid;
+  
+  a {
     text-decoration: none;
+    &:hover {
+      border: 2px solid;
+      text-decoration: none;
+    }
   }
 }
 
