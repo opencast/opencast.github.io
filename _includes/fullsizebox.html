@@ -1,25 +1,31 @@
 <div class="fullsizebox" style="color: {{ include.textcolor | default: '#606c71' }}; background-color: {{ include.backgroundcolor | default: '#ffffff' }}">
   <div class="fullsizebox-content">
-{% if  include.linkurl %}     
+{% if  include.linkurl %}
     <a href="{{ include.linkurl }}">
 {% endif %}
-{% if  include.image %}      
-      <img class="fullsizebox-image" src="{{ include.image }}" alt="{{ include.title }} logo" 
+{% if  include.image %}
+      <img class="fullsizebox-image" src="{{ include.image }}" alt="{{ include.title }} logo"
            style="float:{{ include.align | default: 'left' }}; {% if  include.imagewidth %}width: {{include.imagewidth}};{% endif %}">
 {% endif %}
-{% if  include.linkurl %}       
+{% if  include.linkurl %}
     </a>
-{% endif %}     
+{% endif %}
     <div class="fullsizebox-text">
-      <h3> {{ include.title }} </h3>
+{% if  include.linkurl %}
+      <a href="{{ include.linkurl }}">
+{% endif %}
+        <h3> {{ include.title }} </h3>
+{% if  include.linkurl %}
+      </a>
+{% endif %}
       <p>
         {{ include.description | markdownify }}
       </p>
     </div>
   </div>
-{% if  include.linktext %}  
+{% if  include.linktext %}
   <div class="fullsizebox-link">
     <a href="{{ include.linkurl }}"> {{ include.linktext }}</a>
   </div>
-{% endif %}  
+{% endif %}
 </div>
