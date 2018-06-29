@@ -4,10 +4,6 @@ description: "This is how to get in contact with the project"
 ---
 {% include community_menu.html %}
 
-# Contact
-
-{% include contact.html %}
-
 # Communications
 
 These are the official mailing lists of the Opencast Community. If you are seeking support for running Opencast, we would recommend to subscribe to the Opencast users list. If you are interested in general announcements, the community list is probably the list that you would like to join.
@@ -98,5 +94,6 @@ Feel free to use the [webchat webinterface](http://webchat.freenode.net/?channel
 
 {% include webmeetings.html %}
 
+# Contact
 
-
+{% include contact.html %}
