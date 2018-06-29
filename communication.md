@@ -56,9 +56,10 @@ content="## Opencast Security Notices
 
 [security-notices@opencast.org](mailto:security-notices@opencast.org)
 - For notices relating to security issues in Opencast
-- Recommended for all Opencast development team members, anyone running a Opencast instance" 
+- Recommended for all Opencast development team members, anyone running a Opencast instance 
 
-[Archive](https://groups.google.com/a/opencast.org/forum/#!forum/security-notices) %}
+[Archive](https://groups.google.com/a/opencast.org/forum/#!forum/security-notices)" 
+%}
 
 {% include simplebox.html backgroundcolor=site.data.colors.box
 content="## Opencast Security

@@ -19,6 +19,10 @@ The [website](https://www.opencast.fau.de/) has all the information for planning
 As usually the event has more an un-conference style and the participants can contribute to the agenda in the [Opencast Wiki](https://opencast.jira.com/wiki/spaces/MHDE/pages/368607233/Themen+f+r+das+Treffen+der+DACH+Community+2018).
 [Contact us](http://www.opencast.org/events) for more information or questions." %}
 
+---
+
+# Past Events
+
 {% include fullsizebox.html
 title="2018 Opencast summit"
 description="The website has recording of most of the sessions of this years conference.
@@ -26,11 +30,9 @@ description="The website has recording of most of the sessions of this years con
 image="assets/img/opencast2018wien.jpg"
 align="left"
 imagewidth="40%"
+linktext="Watch the Vienna Conference Recordings..."
+linkurl="http://opencast2018.univie.ac.at/programme-and-recordings/"
 %}
-
----
-
-# Past Events
 
 {% include fullsizebox.html
 title="Conferences and Workshops"
