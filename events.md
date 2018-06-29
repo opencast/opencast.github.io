@@ -17,7 +17,7 @@ content="## Opencast D/A/CH Meeting 2018
 The [website](https://www.opencast.fau.de/) has all the information for planning your itinerary, with registration.
 
 As usually the event has more an un-conference style and the participants can contribute to the agenda in the [Opencast Wiki](https://opencast.jira.com/wiki/spaces/MHDE/pages/368607233/Themen+f+r+das+Treffen+der+DACH+Community+2018).
-[Contact us](http://www.opencast.org/events) for more information or questions." %}
+[Contact us](impress) for more information or questions." %}
 
 ---
 
