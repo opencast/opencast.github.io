@@ -4,8 +4,6 @@ description: "These information helps you to get started!"
 ---
 {% include software_menu.html %}
 
-{% include software.html %}
-
 # [Try it!](https://stable.opencast.org/)
 
 There is a demo instance of Opencast available. If you want to get an impression on how Opencast is working try this system. You can try whatever you want, as the system gets cleaned up every 24 hours. The credentials for an admin user are *admin*/*opencast*.

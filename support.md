@@ -12,7 +12,7 @@ image="assets/img/elan.png"
 linkurl="https://www.elan-ev.de"
 linktext="Learn More"
 backgroundcolor=site.data.colors.box
-size="large"
+format="large"
 %}
 
 {% include imagebox.html
@@ -22,7 +22,7 @@ image="assets/img/plapadoo.png"
 linkurl="https://en.plapadoo.com/blog"
 linktext="Learn More"
 backgroundcolor=site.data.colors.box
-size="large"
+format="large"
 %}
 
 {% include imagebox.html
@@ -32,7 +32,7 @@ image="assets/img/ssystems.png"
 linkurl="https://www.ssystems.de"
 linktext="Learn More"
 backgroundcolor=site.data.colors.box
-size="large"
+format="large"
 %}
 
 {% include imagebox.html
@@ -42,5 +42,5 @@ image="assets/img/teltek.png"
 linkurl="http://teltek.es"
 linktext="Learn More"
 backgroundcolor=site.data.colors.box
-size="large"
+format="large"
 %}
