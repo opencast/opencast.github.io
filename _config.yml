@@ -3,3 +3,5 @@ title: Opencast Video Solution
 description: The free and open source solution for automated video capture and distribution at scale.
 google_analytics: UA-120509325-1
 permalink: :year-:month-:day-:title:output_ext
+plugins:
+  - jekyll-feed
