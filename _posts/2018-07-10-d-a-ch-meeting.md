@@ -3,7 +3,7 @@ title: Opencast D/A/CH Meeting 2018
 date: 2018-07-10
 description: September 27.-28., 2018 at the Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany. 
 category: event
-tags: [event, DACH, workshop, german-speaking]
+tags: [event, DACH, workshop, german-speaking, upcoming]
 ---
 
 The [website](https://www.opencast.fau.de/) has all the information for planning your itinerary, with registration.
