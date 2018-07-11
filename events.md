@@ -7,6 +7,24 @@ title: Opencast Community Meetings
 # Upcoming Events
 Here are the conferences and workshops organized by the Opencast community and/or with participation by / relevance for the Opencast community.
 
+{% for post in site.posts %}
+{% if post.tags contains "upcoming" %}
+
+{% include box-start.html 
+  backgroundcolor=site.data.colors.greenbox 
+%}
+
+<h2><a href="{{ post.url | remove_first:'/' }}">{{ post.title }}</a></h2>
+  <i>{{ post.date | date_to_long_string }}</i>
+  <p>{{ post.description }}</p>
+  <p>{{ post.excerp }}</p>
+<a href="{{ post.url | remove_first:'/' }}">Read more...</a>
+{% include box-end.html %}
+
+{% endif %}
+{% endfor %}
+
+
 {% include simplebox.html backgroundcolor=site.data.colors.box
 content="## Opencast D/A/CH Meeting 2018
 
@@ -22,6 +40,23 @@ As usually the event has more an un-conference style and the participants can co
 ---
 
 # Past Events
+
+{% for post in site.posts %}
+{% if post.tags contains "past" %}
+
+{% include box-start.html 
+  backgroundcolor=site.data.colors.greenbox 
+%}
+
+<h2><a href="{{ post.url | remove_first:'/' }}">{{ post.title }}</a></h2>
+  <i>{{ post.date | date_to_long_string }}</i>
+  <p>{{ post.description }}</p>
+  <p>{{ post.excerp }}</p>
+<a href="{{ post.url | remove_first:'/' }}">Read more...</a>
+{% include box-end.html %}
+
+{% endif %}
+{% endfor %}
 
 {% include fullsizebox.html
 title="2018 Opencast summit"
