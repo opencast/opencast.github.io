@@ -4,6 +4,7 @@ date: 2018-07-11
 description: November 13th to 15th 2018 in Osnabrück, Germany. 
 category: event
 tags: [event, upcoming, developer, workshop, java, html, javascript]
+image: assets/img/developer-workshop.png
 ---
 
 For everybody who is interested in contributing to the Opencast software, or adopting it to the local needs we are offering a developer workshop. *The admission is free!*
