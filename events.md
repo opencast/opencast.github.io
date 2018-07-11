@@ -14,11 +14,11 @@ Here are the conferences and workshops organized by the Opencast community and/o
   backgroundcolor=site.data.colors.bluebox 
 %}
 {% if post.image %}
-<img class="fullsizebox-image" src="{{ post.image }}" style="float:left; width:40%;"/>
+<img class="fullsizebox-image" src="{{ post.image }}" style="float:right; width:40%;"/>
 {% endif %}
 <div>
   <h2><a href="{{ post.url | remove_first:'/' }}">{{ post.title }}</a></h2>
-    <p>{{ post.description }}</p>
+    <p><b>{{ post.description }}</b></p>
     <p>{{ post.excerpt }}</p>
   <a href="{{ post.url | remove_first:'/' }}">Read more...</a>
 </div>
