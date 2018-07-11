@@ -18,7 +18,6 @@ Here are the conferences and workshops organized by the Opencast community and/o
 {% endif %}
 <div>
   <h2><a href="{{ post.url | remove_first:'/' }}">{{ post.title }}</a></h2>
-    <i>{{ post.date | date_to_long_string }}</i>
     <p>{{ post.description }}</p>
     <p>{{ post.excerpt }}</p>
   <a href="{{ post.url | remove_first:'/' }}">Read more...</a>
@@ -43,7 +42,6 @@ Here are the conferences and workshops organized by the Opencast community and/o
 {% endif %}
 <div>
   <h2><a href="{{ post.url | remove_first:'/' }}">{{ post.title }}</a></h2>
-    <i>{{ post.date | date_to_long_string }}</i>
     <p>{{ post.description }}</p>
     <p>{{ post.excerpt }}</p>
   <a href="{{ post.url | remove_first:'/' }}">Read more...</a>
