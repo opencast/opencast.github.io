@@ -1,5 +1,7 @@
 box: "#eff0f1"
 greenbox: "#E4F3EC"
+bluebox: "#E4EBF3"
+redbox: "#F3E4E4"
 footerbox: "#3E3E3E"
 textgrey: "#606c71"
 header-green: "#155799"
