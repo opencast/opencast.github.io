@@ -7,21 +7,49 @@ title: Opencast Community Meetings
 # Upcoming Events
 Here are the conferences and workshops organized by the Opencast community and/or with participation by / relevance for the Opencast community.
 
-{% include simplebox.html backgroundcolor=site.data.colors.box
-content="## Opencast D/A/CH Meeting 2018
+{% for post in site.posts %}
+{% if post.tags contains "upcoming" %}
 
-*The Friedrich-Alexander-Universität Erlangen-Nürnberg ist hosting this years german-speaking conference in Erlangen.*
+{% include box-start.html 
+  backgroundcolor=site.data.colors.bluebox 
+%}
+{% if post.image %}
+<img class="fullsizebox-image" src="{{ post.image }}" style="float:right; width:40%;"/>
+{% endif %}
+<div>
+  <h2><a href="{{ post.url | remove_first:'/' }}">{{ post.title }}</a></h2>
+    <p><b>{{ post.description }}</b></p>
+    <p>{{ post.excerpt }}</p>
+  <a href="{{ post.url | remove_first:'/' }}">Read more...</a>
+</div>
+{% include box-end.html %}
 
-**September 27.-28., 2018**
-
-The [website](https://www.opencast.fau.de/) has all the information for planning your itinerary, with registration.
-
-As usually the event has more an un-conference style and the participants can contribute to the agenda in the [Opencast Wiki](https://opencast.jira.com/wiki/spaces/MHDE/pages/368607233/Themen+f+r+das+Treffen+der+DACH+Community+2018).
-[Contact us](impress) for more information or questions." %}
+{% endif %}
+{% endfor %}
 
 ---
 
 # Past Events
+
+{% for post in site.posts %}
+{% if post.tags contains "past" %}
+
+{% include box-start.html 
+  backgroundcolor=site.data.colors.box 
+%}
+{% if post.image %}
+<img class="fullsizebox-image" src="{{ post.image }}" style="float:left; width:40%;"/>
+{% endif %}
+<div>
+  <h2><a href="{{ post.url | remove_first:'/' }}">{{ post.title }}</a></h2>
+    <p>{{ post.description }}</p>
+    <p>{{ post.excerpt }}</p>
+  <a href="{{ post.url | remove_first:'/' }}">Read more...</a>
+</div>
+{% include box-end.html %}
+
+{% endif %}
+{% endfor %}
 
 {% include fullsizebox.html
 title="2018 Opencast summit"
