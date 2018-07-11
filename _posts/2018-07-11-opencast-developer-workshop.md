@@ -30,4 +30,4 @@ The admission to the event is free. Lunch and dinner will be be on your own cost
 
 If you have further questions [please contact us](mailto:rrolf@uni-osnabrueck.de). 
 
-!! [Register here!](https://goo.gl/forms/2cNNydlEdv9TiS1V2)
+## [Register here!](https://goo.gl/forms/2cNNydlEdv9TiS1V2)
