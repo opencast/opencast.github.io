@@ -7,28 +7,28 @@ tags: [event, upcoming, developer, workshop, java, html, javascript]
 image: assets/img/developer-workshop.png
 ---
 
-For everybody who is interested in contributing to the Opencast software, or adopting it to the local needs we are offering a developer workshop. *The admission is free!*
+For everybody who is interested in contributing to Opencast, or adopting it to the local needs we are offering a developer workshop. *The admission is free!*
 
 <!-- More --->
 
-This workhop will not offer any basic introduction into the setup or usage of Opencast. It is target towards software developers with a fair knowledge of Java, XML, HTML and Javascript. Knowledge of Shell-scripts and Python is welcome but not needed. 
+The workshop's target attendees are software developers with some knowledge of Java, XML, HTML, and Javascript. Knowledge of shell-scripts and Python is welcome but not required. Attendees should have some knowledge about the setup and usage of Opencast.
 
 The workshop will cover:
 
-- Opencast Architecture.
+- Opencast's Architecture.
 - Development Infrastructure (GIT, IDEs, Checkstyle, Maven, NPM).
-- Create new Opencast features (Java OSGI modules).
-- Admin UI development (HTML, Javascript, Angular).
+- Creating new Opencast features (Java OSGI modules).
+- Admin interface development (HTML, Javascript, Angular).
 - Connecting other systems for data im-/export (REST-API).
-- ... and more.
+- …and more.
 
-Regarding the progress of the participants, we might use the last workshop day for a dev-camp.
+Depending on the workshop's progress, we might use the last workshop day for a dev-camp.
 
 The workshop will be given by Lars Kiesow, Rüdiger Rolf and other developers from the ELAN e.V.
-The number of participants to the event will be limited to 12. The participants will be accepted in the order of their [registration](https://goo.gl/forms/2cNNydlEdv9TiS1V2). 
+The number of participants to the event will be limited to 12. The participants will be accepted in the order of their [registration](https://goo.gl/forms/2cNNydlEdv9TiS1V2).
 
-The admission to the event is free. Lunch and dinner will be be on your own cost. If you notice that you cannot attend after the registration, we demand that you contact us and cancel! 
+The admission to the event is free. Meals are not included. If you notice that you cannot attend after the registration, please contact us so that someone else can get your spot.
 
-If you have further questions [please contact us](mailto:rrolf@uni-osnabrueck.de). 
+If you have further questions [please contact us](mailto:rrolf@uni-osnabrueck.de).
 
 ## [Register here!](https://goo.gl/forms/2cNNydlEdv9TiS1V2)
