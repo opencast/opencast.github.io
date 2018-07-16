@@ -4,7 +4,7 @@ date: 2015-05-01
 description: The EU-funded translectures project focuses on the automated transcription and translation of lecture recordings.
 category: user
 tags: [user]
-logo: /assets/img/translectures-logo.png
+logo: assets/img/translectures-logo.png
 ---
 
 ## Project Highlights
@@ -20,7 +20,7 @@ http://videolectures.net/translectures_demo_matterhorn_integration/
 
 ## Background
 With 23 official languages in 27 member states, the European Union is a prime example of multilingualism. And despite the fact that English is more and more becoming a lingua franca, this holds true for the European academic landscape. Any knowledge exchange therefore has to overcome language barriers at some stage in order for the wealth of European academia to unfold.
-<img src="http://www.opencast.org/wp-content/uploads/2015/07/translectures1.png2">
+<img src="assets/img/translectures1.png">
 Alfons Juan-Císcar, project lead
 ALFONS JUAN-CÍSCAR, PROJECT LEAD
 
@@ -33,7 +33,7 @@ A research project first and foremost, transLectures focuses on automatic transc
 
 As for the educational content, transLectures is exploiting two major European video repositories, VideoLectures.NET, an award-winning collection of videos recorded at various academic events set up by JSI’s Centre for Knowledge Transfer, and poliMedia, a lecture capture system designed and implemented at the Universitat Politècnica de València, UPV. The main languages being targeted in this project are English, Spanish and Slovenian; technologies are also being developed for French and German.
 
-<img src="http://www.opencast.org/wp-content/uploads/2015/07/translectures2.png">
+<img src="assets/img/translectures2.png">
 Nicola Cancedda, Principal Scientist and Area Manager, MLDAT Xerox Research Centre Europe
 NICOLA CANCEDDA, PRINCIPAL SCIENTIST AND AREA MANAGER, MLDAT XEROX RESEARCH CENTRE EUROPE
 
@@ -42,7 +42,7 @@ NICOLA CANCEDDA, PRINCIPAL SCIENTIST AND AREA MANAGER, MLDAT XEROX RESEARCH CENT
 ## Technologies I: Opencast as a processing framework
 In terms of the integration of tools with the Opencast platform, the project is faced with two very different challenges. In the first instance, a communication system between the Opencast platform and the tools has to be developed and implemented to allow automatic captions to be generated for the videos. Then, the best way to implement the editing system has to be found, through which users will be able to correct any errors incurred during the transcription/translation process. The idea here is to incorporate new features typical of subtitle editors into the Opencast Engage Player.
 
-<img src="http://www.opencast.org/wp-content/uploads/2015/07/translectures3-150x150.png">
+<img src="assets/img/ranslectures3.png">
 Digital Project Manager at Knowledge 4 All Foundation Ltd.
 DIGITAL PROJECT MANAGER AT KNOWLEDGE 4 ALL FOUNDATION LTD.
 
@@ -50,11 +50,11 @@ DIGITAL PROJECT MANAGER AT KNOWLEDGE 4 ALL FOUNDATION LTD.
 
 In order to allow communication between Opencast and the automatic transcription/translation system, project developers have implemented a workflow operation that will allow the necessary data to be sent from the platform to the transcription system, making use of a specially-designed web service. Figure 1 illustrates the process established for videos added to the Opencast platform using the transLectures workflow:
 
-<img src="http://www.opencast.org/wp-content/uploads/2015/07/translectures4-300x172.png">
+<img src="assets/img/ranslectures4.png">
 
 The screen shot shows a preliminary mock-up of the features that will be available for transcription/translation of video content:
 
-<img src="http://www.opencast.org/wp-content/uploads/2015/07/translectures5-300x188.png">
+<img src="assets/img/translectures5.png">
 
 
 ## Technologies II: Opencast engage end
@@ -64,14 +64,14 @@ Paella Engage Player is a Opencast-compatible player developed at the UPV. It is
 
 For the project, a transLectures plug-in for Paella has been developed that makes it possible to view and edit the subtitles generated for each lecture within the player:
 
-<img src="http://www.opencast.org/wp-content/uploads/2015/07/translectures6-300x78.png">
+<img src="assets/img/translectures6.png">
 
 By doing so, transLectures has effectively paved the way for what will be the successful integration of transLectures tools with Opencast, allowing this platform to offer accurate transcriptions and translations for all videos added by its users – and for those users to contribute back to the quality of automated transcriptions and translations.
 
 ## Opencast as OSS
 Open source is an important ingredient in ensuring that educational repositories adopt the transcription and translation technology being developed at transLectures – it reduces the cost barrier to entering this domain for many institutions. In addition, open source initiatives, like the Opencast project, foster collaborative efforts to further improve and refine software tools, and make them useful for anyone. This is relevant in particular in research-driven projects like transLectures, where further developments are to be expected.
 
-<img src="http://www.opencast.org/wp-content/uploads/2015/07/translectures7.png">
+<img src="assets/img/translectures7.png">
 Jorge Civera Saiz, project manager
 JORGE CIVERA SAIZ, PROJECT MANAGER
 

@@ -4,11 +4,11 @@ date: 2015-05-01
 description: An excellent example on how Opencast can be used in educational projects and how the software can be integrated with other portals.
 category: user
 tags: [user]
-logo: /assets/img/cdm-logo.png
+logo: assets/img/cdm-logo.png
 ---
 
 ## Project Goals
-<img src="http://www.opencast.org/wp-content/uploads/2015/07/CampusDoMarVigo_logo.png">
+<img src="assets/img/CampusDoMarVigo_logo.png">
 Campus Do Mar LogoMain Project goals were:
 
 1. Test Opencast as a Campus Wide media recording and publishing solution, specifically:
@@ -36,7 +36,7 @@ The IT department of University of Vigo was in charge of the project. The compan
 - Project End: December 31th 2012
 
 ## Scale of Project
-<img src="http://www.opencast.org/wp-content/uploads/2015/07/CampusDoMar1.jpg">
+<img src="assets/img/CampusDoMar1.jpg">
 During the first stage of this pilot project we have put into use on the main campus of the university:Instructor viewing the lecture capture device
 
 - 2 medium size classrooms
@@ -48,7 +48,7 @@ With the fixed equipped rooms we have recorded and published 20 courses, with a 
 With the mobile Galicaster units we have recorded 19 meetings and conferences, with a total of 584 videos or 218 hour of recorded presentations, roundtables, etc… By February 2013, there have been more than 63,000 downloads. Almost 100% of these recordings are open. (the downloading figures include only the direct Opencast downloads, not the Youtube or iTunes U downloads).
 
 ## Integration with external systems
-<img src="http://www.opencast.org/wp-content/uploads/2015/07/CampusDoMar2.jpg">
+<img src="assets/img/CampusDoMar2.jpg">
 The platform built for this pilot project is, in fact, an integration of Opencast with Galicaster and PuMuKIT, another two open tools:
 
 galicaster screen Galicaster is an Opencast-compatible capture agent. It has been developed by Teltek Video Research following the needs and goals of the agents for the Opencast deployment, namely: Graphical User Interface (touchscreen-oriented); live visual feedback of what is being recorded, including a red “recording light” and a vu-meter for audio monitoring; remote monitoring of the recording, via VNC; basic, in-place control of the recording (start, pause, stop buttons); a Media Manager for finished recordings (browse, play and delete) and full compatibility with the Opencast scheduling system. (www.galicaster.org)
@@ -57,7 +57,7 @@ PuMuKIT is a comprehensive media cataloguing system, developed at the University
 
 In the last stage of the project, the Paella HTML5 Engage-Player was also deployed. That was done using PuMuKIT to provide a “Smart” player that switches the underlying technology depending on the user browser capabilities: the HTML5 player as default, with a fallback to the standard Flash engage player or to a “monostream” version of the recordings for Android or iOS devices (a composition of the 2 streams, side by side, in one frame).
 
-<img src="http://www.opencast.org/wp-content/uploads/2015/07/CampusDoMar3.png">
+<img src="assets/img/CampusDoMar3.png">
 
 ## Why did you choose Opencast?
 opencast engage player with multistreamWe have been working on open-source projects for quite a long time. It is an environment where we feel comfortable. For that reason, the University of Vigo entered the Opencast project from the beginning, and it has been our permanent goal to have a real Opencast-based production system in place.
@@ -69,7 +69,7 @@ One of the key features for adopting Opencast was its well designed architecture
 Being an open-source and modular platform really simplifies our work adapting other tools to the platform and the platform to those tools. In fact, due to our specific needs, a new Opencast-compatible capture agent (Galicaster) was developed for this project, and we have also supported the development of the Paella HTML5 Engage Player by UPV (Polytechnic University of Valencia).
 
 We have also been able to successfully integrate Opencast with PuMuKIT, our legacy, home-grown, open-source media content manager, and finally build up a system that integrates the Captured Lectures into several distribution channels that were already being used before the adoption of Opencast: Youtube, iTunes-U, Moodle and the University’s institutional Media Portals (tv.campusdomar.es and tv.uvigo.es).
-<img src="http://www.opencast.org/wp-content/uploads/2015/07/CampusDoMar4.jpg">
+<img src="assets/img/CampusDoMar4.jpg">
 
 ## How does your work provide potential benefit for the Opencast community?
 We think that the Campus do Mar Opencast pilot can be a good showcase of the use of Opencast as a Lecture Capture System in the real world today, with 20 courses (close to 400 hours) and very good feedback from the professors and students involved.
@@ -107,10 +107,10 @@ Regarding development efforts we are very interested on:
 
 ## Examples
 You will find many of the lectures and conferences recorded during this project at http://tv.campusdomar.es/librarymh
-<img src="http://www.opencast.org/wp-content/uploads/2015/07/CampusDoMar6.jpg">
+<img src="assets/img/CampusDoMar6.jpg">
 
 Or a “Side by Side” version of the recordings on our Youtube channel: http://www.youtube.com/campusdomar
-<img src="http://www.opencast.org/wp-content/uploads/2015/07/CampusDoMar8.jpg">
+<img src="assets/img/CampusDoMar8.jpg">
 
 ## Contact Information
 Domingo Docampo

@@ -9,7 +9,7 @@ description: "Opencast has a group of partners that can help you make the most i
 {% include imagebox.html
 title="Arec"
 description="AREC is a manufacturer specializes in the networking audio-visual total solution, and committed to the integration and appliance of software and hardware."
-image="/assets/img/arec.png"
+image="assets/img/arec.png"
 linkurl="http://www.arec.com/index-en.html"
 linktext="Learn More"
 backgroundcolor=site.data.colors.box

@@ -4,7 +4,7 @@ date: 2015-05-01
 description: The ETH Zürich has always been one of the driving forces of the Opencast project. A high degree on integration into their campus infrastructure is important to them.
 category: user
 tags: [user]
-logo: /assets/img/eth-logo.png
+logo: assets/img/eth-logo.png
 ---
 
 ## Using Opencast as a video asset management system to your CMS – introducing OAI-PMH
@@ -18,7 +18,7 @@ Plans to introduce Opencast as a lecture capture system at ETH Zürich overlappe
 ### OAI-PMH
 The main issue therefore was a connection between Opencast and CQ5 and this is where OAI-PMH came in handy: The Open Archives Initiative Protocol for Metadata Harvesting was created to consolidate metadata from different (library) repositories, thus providing the user with consistent search results across these. ETH had originally implemented OAI-PMH to Opencast in order to aggregate different video repositories as part of an unfinished project for a federated collection of academic video. Instead, OAI-PMH became the “missing link” between Opencast and CQ5, with the former being harvested by the latter for metadata describing video assets in Opencast. Within Opencast, the videos destined to be published in CQ5 have their own workflow “OAI-PMH CQ5” which results in the said harvesting interface being served. As a matter of fact, full media packages are being harvested, with distribution media (media files) being replaced by respective links to the Opencast distribution infrastructure. A handler was crafted in CQ5 to use information contained to display video as assets, including a short description and a preview image:
 
-￼<img src="http://www.opencast.org/wp-content/uploads/2015/07/eth1-300x149.png">
+￼<img src="assets/img/eth1.png">
 
 
 ### Video distribution
@@ -31,7 +31,7 @@ HLS is not supported yet; for this, a manifest is needed to correctly chop and d
 
 Where applicable, users can manually switch to 1080p in fullscreen, thus getting even better video quality (example). The full matrix reads like this:
 
-￼<img src="http://www.opencast.org/wp-content/uploads/2015/07/eth2-300x91.png">
+￼<img src="assets/img/eth2.png">
 
 We have a HTTP Apache server for HTML5 videos (webm with vp8 and mp4 with h.264) plus Wowza Streaming Engine 4.0 server for RTMP (mp4 with h.264) distribution. The virtual servers runs on a VMware vSphere.
 

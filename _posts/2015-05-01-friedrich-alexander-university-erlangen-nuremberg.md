@@ -4,17 +4,17 @@ date: 2015-05-01
 description: The Friedrich-Alexander-University Erlangen-Nuremberg is one of Germanys largest universities and has a long tradition in lecture recordings.
 category: user
 tags: [user]
-logo: /assets/img/fau-logo.png
+logo: assets/img/fau-logo.png
 ---
 
 Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) [1] is a strong research university and one of the largest universities in Germany, with more than 40,000 students, 244 degree programmes, 4,000 academic staff (including over 580 professors), 180 million euros third-party funding (as of 2014), and 500 partnerships with universities
 all over the world.
 
 The Multimedia Department at RRZE (the University IT service provider) has a long history of using professional lecture capture technology, and the first lecture capture video was published in 2002 [2]. In 2009, RRZE announced the launch of an online web video platform [3] as the official publication channel for all University video material. Today the department has one manager, four employees for capture and editing, two employees for team and management administration, one developer, and five to six student assistants every semester. The video portal hosts more than 18,000 educational resources online.
-<img src="http://www.opencast.org/wp-content/uploads/2015/12/pic_1.jpg">
+<img src="assets/img/pic_1.jpg">
 
 ## Why did you decide to use Opencast?
-<img src="http://www.opencast.org/wp-content/uploads/2015/12/pic_3.png">
+<img src="assets/img/pic_3.png">
 
 FAU’s IT service provider, RRZE, showed great interest from the first steps of Opencast software starting with version 0.5. The need to extend the current infrastructure was clear, while the option of reducing the workload of the staff needed for capture, editing and publishing was really tempting. There were four main reasons for testing and finally choosing the Opencast software:
 
@@ -32,7 +32,7 @@ We decided to keep our video portal as a publication channel and use Opencast se
 - Same quality and encodings, such as the files being processed by professional video editing software (FinalCut Pro)
 - Intro-outro videos for all video-audio formats Picture 1
 
-<img src="http://www.opencast.org/wp-content/uploads/2015/12/pic_4.jpg">
+<img src="assets/img/pic_4.jpg">
 Picture 1
 Video portal default combined layout. Post editing with Adobe Photoshop and Finalcut Pro
 
@@ -42,7 +42,7 @@ Videos are published in our video portal admin area using the Opencast REST API,
 
 This winter semester 2015/2016, a clip [4] was produced exclusively by Opencast 2.0.1 and captured with Galicaster 1.4.1. The combined video file used dynamic Opencast metadata rendering.
 
-<img src="http://www.opencast.org/wp-content/uploads/2015/12/pic_5.png">
+<img src="assets/img/pic_5.png">
 
 ##  Hardware-software description
 Opencast Ubuntu 14.04 server nodes (October 2015)

@@ -4,7 +4,7 @@ date: 2015-05-01
 description: The University of Manchester has brought lecture capture to a new level. With an opt-out policy for lecturers and more than 300 equipped venues by the end of 2015.
 category: user
 tags: [user]
-logo: /assets/img/mancherster-logo.png
+logo: assets/img/mancherster-logo.png
 ---
 
 ## Project Goals
@@ -58,7 +58,7 @@ Currently we use three forms of monitoring to maintain quality an increase opera
 Nagios monitoring allows us to know the state and load of all our Opencast servers and capture agents. Generally this is used for sys-admin type troubleshooting, such as spotting when a storage device is nearing capacity or measuring the uptime of a unit. The example
 below shows the load on a capture agent increasing as it performs recordings. Gaps in the data represent the capture agent shutting down at night.
 
-<img src="http://www.opencast.org/wp-content/uploads/2015/07/manchester1-300x217.png">
+<img src="assets/img/manchester1.png">
 
 New Relic monitoring allows us to see a great deal of application orientated data from the Opencast cluster. This includes information about the JMV and its activity, but also highly detailed information about the SQL database, its responsiveness, load and query specific data. Most recently we used this to identify a resource intensive query which was removed, reducing the total database load by approximately 90%.
 
@@ -66,7 +66,7 @@ New Relic monitoring allows us to see a great deal of application orientated dat
 
 The Capture Agent Monitor is the final monitoring tool we use. Originally developed by Universitat Politécnica de Valencia, it is a web based tool that allows you to monitor the input and activity of all capture agents simultaneously. Each box represents a lecture theatre and what the projector is currently displaying. There is an audio levels meter, web based VNC and information about its current schedule of jobs. The monitor also allows a technician to remotely monitor audio quality and make adjustments.
 
-<img src="http://www.opencast.uni-osnabrueck.de/wp-content/uploads/2015/07/manchester3.png">
+<img src="assets/img/manchester3.png">
 
 ## Opt-out Policy
 In late June a lecture capture policy sponsored by Prof. Richard Reece, the Associate Vice President for Teaching, Learning and Students, was approved by the University Senate. One of the key aspects of the policy was to move the University from the previous opt-in model
@@ -74,7 +74,7 @@ In late June a lecture capture policy sponsored by Prof. Richard Reece, the Asso
 
 The development work for what would become the Participation Management Module (PM) was contracted out to a commercial company that offers professional services for Opencast, Entwine GmbH. Within two months Entwine had produced a functional module with timetable integration, user and management UIs and a set of rest end points. An example of the UI for users is below.
 
-<img src="http://www.opencast.org/wp-content/uploads/2015/07/manchester4-300x173.png">
+<img src="manchester4.png">
 
 We launched with opt-out in September and the results were immediate and dramatic. With opt-in we were expecting somewhere between 10-20% of all lectures to be recorded, with opt-out this figure rocketed to 70%. The effectiveness of this change can be seen in our first round of feedback from students, 97% of the responses about the lecture capture service were either praising its use or asking for it to be extended to more courses.
 

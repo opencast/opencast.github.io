@@ -4,7 +4,7 @@ date: 2015-05-01
 description: Ghent University is a top 100 university and one of the major universities in Belgium counting over 41,000 students and 9,000 employees. Our 11 faculties offer a wide range of courses and conduct in-depth research in both exact and social sciences.
 category: user
 tags: [user]
-logo: /assets/img/logo-ugent.png
+logo: assets/img/logo-ugent.png
 ---
 
 ## Project Goals
@@ -45,7 +45,7 @@ We build our own galicaster and galicaster pro capture agents based on Dell Opti
 
 - 28 Lecture halls equipped with galicaster capture agent
 - 6 Mobile capture agents
-<img src="http://www.opencast.org/wp-content/uploads/2016/04/IMG1-225x300.jpg">
+<img src="assets/img/IMG1.jpg">
 
 ### Integrations
 Our Opencast installation is integrated with our LMS system so that students can view lectures directly in the LMS. We are using the Paella engage player for viewing all lectures.
@@ -55,7 +55,7 @@ The integration is currently limited to viewing lectures but we are planning fur
 ### Usage
 We are seeing a steady increase of general usage each semester. The number of unique viewers, lectures viewed and lectures captured increase each semester with an increase before exams and decrease after exams and during the holidays.
 
-<img src="http://www.opencast.org/wp-content/uploads/2016/04/Opencast-Viewer-statistics.png">
+<img src="assets/img/Opencast-Viewer-statistics.png">
 
 ### Contact
 You can find more detailed information on https://icto.ugent.be/en/content/team-multimedia .

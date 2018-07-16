@@ -4,7 +4,7 @@ date: 2018-06-08
 description: With about 45.000 students the University of Münster is one of the largest universities in Germany. Organized in 15 faculties, the scientific portfolio of the university contains a wide range of professions. Initially founded on April 16, 1780 it was later demoted to an academy in the 19, century. On July 1, 1902 Emperor Wilhelm II. reenacted Münster to a university, which became known under its present name five years later.
 category: user
 tags: [user]
-logo: /assets/img/WWUMuenster_Logo_2017_rgb.png
+logo: assets/img/WWUMuenster_Logo_2017_rgb.png
 ---
 
 ## About the university

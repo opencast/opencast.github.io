@@ -26,7 +26,7 @@ align="right"
 {% include fullsizebox.html
 title="Events"
 description="These are the upcoming Events around Opencast. You can also find recordings from past conferences here. [Read more...](events)"
-image="assets/img/Konferenz_wien_2.png"
+image="assets/img/Konferenz_wien_2.jpg"
 linkurl="events"
 align="right"
 backgroundcolor=site.data.colors.box

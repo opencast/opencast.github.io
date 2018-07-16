@@ -30,7 +30,7 @@ description: Opencast is an open source solution for automated video capture and
 {% include fullsizebox.html
 title="Install Opencast"
 description="Here you will find a test server, installation instructions and the general documenation for Opencast. [Read more…](install)"
-image="assets/img/large-playback_install.png"
+image="assets/img/software_install.png"
 linkurl="software"
 align="right"
 %}
@@ -47,7 +47,7 @@ backgroundcolor=site.data.colors.box
 {% include fullsizebox.html
 title="Benefits"
 description="Additional to the features there are more reasons why Opencast is a reasonable choice for a video management system ant your institution. [Read more…](benefits)"
-image="assets/img/benefits.png"
+image="assets/img/benefits_02.png"
 linkurl="benefits"
 align="right"
 %}
@@ -55,7 +55,7 @@ align="right"
 {% include fullsizebox.html
 title="Frequently Asked Questions"
 description="Here are some frequently asked questions regarding Opencast. This will help you determine if it’s the right solution for your organization. [Read more…](faq)"
-image="assets/img/large-manage_faq.png"
+image="assets/img/faq_klein.png"
 linkurl="faq"
 align="right"
 backgroundcolor=site.data.colors.box

@@ -10,18 +10,20 @@ description: There are several partners that offer free and professional tools a
 {% include fullsizebox.html
 title="Free and Open-Source Tools"
 description="There are several software tools that can be used together with Opencast, from PyCA - a small recording tool that can even run on a Raspberry Pi - up to a professional video annotation tool that allows scientific coding of videos. [Learn more...](tools)"
-image="assets/img/free_gruen.png"
+image="assets/img/freetools.png"
 linkurl="tools"
 align="right"
 backgroundcolor=site.data.colors.box
+imagewidth="40%"
 %}
 
 {% include fullsizebox.html
 title="Hardware Vendors"
 description="There are several hardware vendors that produce devices to record lectures based on a schedule and automatically upload them to Opencast. [Learn more...](hardware)"
-image="assets/img/hardware_vendor.png"
+image="assets/img/hardware.png"
 linkurl="hardware"
 align="right"
+imagewidth="40%"
 %}
 
 {% include fullsizebox.html
@@ -31,6 +33,7 @@ image="assets/img/support_02.png"
 linkurl="support"
 align="right"
 backgroundcolor=site.data.colors.box
+imagewidth="40%"
 %}
 
 # Sponsors

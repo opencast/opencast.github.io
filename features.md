@@ -14,7 +14,7 @@ description="Opencast Schedule lets you schedule an event to be automatically re
 - iCalendar import from external scheduling source
 - Integrates with open source and proprietary capture hardware
 - Tools for disaster recovery"
-image="/assets/img/large-schedule.jpg"
+image="assets/img/large-schedule.jpg"
 align="left"
 imagewidth="40%"
 %}
@@ -60,7 +60,7 @@ description="The Opencast player can be used as a standalone application, or emb
 - Customizable permissions settings
 - User directory integration (LDAP, CAS etc.)
 - Adaptive Streaming support with HTTP Live Streaming (HLS)"
-image="/assets/img/large-playback.jpg"
+image="assets/img/large-playback.jpg"
 align="right"
 backgroundcolor=site.data.colors.box
 imagewidth="40%"
@@ -75,7 +75,7 @@ description="Opencast Manage provides a dashboard for administrators to configur
 - Manual media upload (e.g. user-generated or production video)
 - Bulk editing; media trimming and recording search/filtering
 - Monitoring dashboard; status, performance statistics and technical details"
-image="/assets/img/large-manage.jpg"
+image="assets/img/large-manage.jpg"
 align="left"
 imagewidth="40%"
 %}

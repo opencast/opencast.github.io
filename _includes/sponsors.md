@@ -1,5 +1,5 @@
 
-<img class="center-image" src="/assets/img/Wolfvision-sponsor_gross.jpg"/>
+<img class="center-image" src="assets/img/Wolfvision-sponsor_gross.jpg"/>
 
 ## WolfVision
 

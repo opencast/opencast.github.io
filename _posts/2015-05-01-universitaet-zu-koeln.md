@@ -4,7 +4,7 @@ date: 2015-05-01
 description: Opencast is a central media service at the University of Cologne that unifies the management of automatic recorded lectures, educational media and blended learning material.
 category: user
 tags: [user]
-logo: /assets/img/uni-zu-koeln.png
+logo: assets/img/uni-zu-koeln.png
 ---
 
 *Last update: October, 5th 2015*
@@ -19,7 +19,7 @@ In summer 2014 the Computing Center (RRZK) started a two years project to set up
 Our goal is to provide Opencast as a regular service for managing educational content and facilitating the automatic recording of lectures. Additionally we will gradually expand the number of lecture halls with the needed capture hardware. For all participants – lecturers, students and technical staff – we see a great potential to increase efficiency by offering unified video management tools to the campus.
 In the summer semester 2015 we already recorded 22 courses with an average of 40 hours/week.
 
-<img src="http://www.opencast.uni-osnabrueck.de/wp-content/uploads/2015/02/uni-zu-koeln.png">
+<img src="assets/img/uni-zu-koeln.png">
 
 ## Local setup
 We build our own RPMs with Jenkins, use Cobbler to setup the VM servers and recording units and with Ansible we deploy needed software for server and capture clients. The configuration of a new VM server node takes about 20 minutes.

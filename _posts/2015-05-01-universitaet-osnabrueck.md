@@ -4,13 +4,13 @@ date: 2015-05-01
 description: Osnabrück was the first university to run an Opencast installation in production. They are leading the Opencast Player development. Opencast is extensively integrated into their LMS Stud.IP.
 category: user
 tags: [user]
-logo: /assets/img/uos-logo.png
+logo: assets/img/uos-logo.png
 ---
 
 *Last update: August, 1st 2015*
 
 ## About the University of Osnabrück
-<img src="http://www.opencast.uni-osnabrueck.de/wp-content/uploads/2015/07/uos-logo-small.gif">
+<img src="assets/img/uos-logo-small.gif">
 Osnabrück University, founded in 1974, is a young, vibrant university in northwest Germany that is renowned for its research and teaching in the areas of Humanities, Social Sciences, Science, Law and Business Administration/Economics. The University provides ideal conditions for over 11.000 students and PhD students to learn and conduct research.
 Its Center for Information Management and virtual Teaching (virtUOS) is managing the universities e-learning activities. Because of this virtUOS is engaged in several open source projects, with the LMS Stud.IP and Opencast as the larger ones among these.
 
@@ -21,7 +21,7 @@ The University of Osnabrück was the first institution with a production system 
 Additionally the ELAN e.V. that is closely related to the virtUOS, is providing Opencast support for its member institutions and offers also commercial support and development services to other german universities.
 
 ## Local setup
-<img src="http://www.opencast.org/wp-content/uploads/2015/07/schloss-uos-300x110.jpg">
+<img src="assets/img/schloss-uos.jpg">
 
 The university is recording around 35 lectures per week currently. That subsumes to around 2000 hours of recordings per semester. In total there are over 4000 recordings within their Opencast system.
 
