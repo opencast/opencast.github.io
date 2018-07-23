@@ -26,11 +26,6 @@ content="## How does Opencast compare to proprietary solutions?
 The feedback from the community is primarily around the flexibility and scalability of the Opencast platform. It has all the common features built-in with the ability to add any features you require without the development cycles of proprietary solution providers." %}
 
 {% include simplebox.html backgroundcolor=site.data.colors.box
-content="## How well will it integrate with what we already have?
-
-Opencast was developed as an open source solution so that it could work well in any environment. The Opencast Marketplace is full of technology providers with active integrations, but the open API lets you develop any integration that’s needed. Opencast adheres to; iCalendar, RSS, ATOM, OAI-PMH, MPEG-7, Dublin Core, LTI, REST standards." %}
-
-{% include simplebox.html backgroundcolor=site.data.colors.box
 content="## Will students and professors like it?
 
 Educators love Opencast because once it’s set up, they don’t have to worry about much. Lectures are automatically queued to record, so there is little day-to-day management. Students benefit from the easy access to videos on CMS, iTunes, YouTube or RSS subscriptions. Advanced search features also help end-users find the content they are looking for quickly and easily." %}
