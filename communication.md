@@ -65,15 +65,6 @@ content="## Opencast Security
 - Use this list to report security issues to the team" %}
 
 {% include simplebox.html backgroundcolor=site.data.colors.box
-content="## Spanish-speaking community
-
-[opencast-es@opencastproject.es](mailto:opencast-es@opencastproject.es)
-- For issues unique to Spanish-speaking adopters (cooperation, meetings etc.)
-- For anyone feeling more comfortable discussing Opencast-related issues in Spanish
-
-**NOTE: You should also be subscribed to the Community list, as some important announcements about Opencast will only be sent to the Community list. We assume everyone on this list is also on the announcements@ list**"%}
-
-{% include simplebox.html backgroundcolor=site.data.colors.box
 content="## German-speaking community
 
 [anwender@opencast.org](mailto:anwender@opencast.orgs)
