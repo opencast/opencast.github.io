@@ -1,5 +1,5 @@
 ---
-title: Opencast Annotation Tool 2.0: QA started
+title: Opencast Annotation Tool 2.0 - QA started
 date: 2018-07-30
 description: For the upcoming release 2.0 of the Annotation Tool we need help for the QA  
 category: news
