@@ -22,7 +22,7 @@ User: admin
 Password: opencast
 ```
 
-Feel free to add additional users and upload your own video. If you encounter any technical problems using this system, please contact [Julian](mailto://kniephoff@elan-ev.de) or [Rüdiger](mailto://rrolf@uni-osnabrueck.de).
+Feel free to add additional users and upload your own video. If you encounter any technical problems using this system, please contact [Julian](mailto:kniephoff@elan-ev.de) or [Rüdiger](mailto:rrolf@uni-osnabrueck.de).
 
 When uploading a video you should regard two things:
 
@@ -35,10 +35,11 @@ If you encounter an error, please file an issue in Github:
 
 [https://github.com/opencast/annotation-tool/issues](https://github.com/opencast/annotation-tool/issues)
 
-For each ticket please select the milestone "Annotation Tools 2.0).
-If you find an error that prevents you from continuing testing please set the label "blocker". If you find a severe problem that needs to be fixed for the release please select the label "critical".
+For each ticket please select the milestone "Annotation Tools 2.0.
 
-We would also recommend to use the labels "usability", "accessibility" and "documentation", if appropriate, for a better organization of  the tickets.
+If you find an error that prevents you from continuing testing please set the label *"blocker"*. If you find a severe problem that needs to be fixed for the release please select the label *"critical"*.
+
+We would also recommend to use the labels *"usability"*, *"accessibility"* and *"documentation"*, if appropriate, for a better organization of  the tickets.
 
 If you find issues that you suspect to fail in Opencast and not in the annotation tool, please report them in the [Opencast Jira](https://opencast.jira.com/).
 
