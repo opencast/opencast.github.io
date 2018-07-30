@@ -35,7 +35,7 @@ If you encounter an error, please file an issue in Github:
 
 [https://github.com/opencast/annotation-tool/issues](https://github.com/opencast/annotation-tool/issues)
 
-For each ticket please select the milestone "Annotation Tools 2.0.
+For each ticket please select the milestone "Annotation Tool 2.0".
 
 If you find an error that prevents you from continuing testing please set the label *"blocker"*. If you find a severe problem that needs to be fixed for the release please select the label *"critical"*.
 
