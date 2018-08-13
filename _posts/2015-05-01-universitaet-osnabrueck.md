@@ -9,8 +9,10 @@ logo: assets/img/uos-logo.png
 
 *Last update: August, 1st 2015*
 
-## About the University of Osnabrück
-<img src="assets/img/uos-logo-small.gif">
+## About Osnabrück University
+
+![Logo of Osnabrück University](assets/img/uos-logo-small.gif)
+
 Osnabrück University, founded in 1974, is a young, vibrant university in northwest Germany that is renowned for its research and teaching in the areas of Humanities, Social Sciences, Science, Law and Business Administration/Economics. The University provides ideal conditions for over 11.000 students and PhD students to learn and conduct research.
 Its Center for Information Management and virtual Teaching (virtUOS) is managing the universities e-learning activities. Because of this virtUOS is engaged in several open source projects, with the LMS Stud.IP and Opencast as the larger ones among these.
 
@@ -21,7 +23,8 @@ The University of Osnabrück was the first institution with a production system 
 Additionally the ELAN e.V. that is closely related to the virtUOS, is providing Opencast support for its member institutions and offers also commercial support and development services to other german universities.
 
 ## Local setup
-<img src="assets/img/schloss-uos.jpg">
+
+![Osnabrück University: Castle](assets/img/schloss-uos.jpg)
 
 The university is recording around 35 lectures per week currently. That subsumes to around 2000 hours of recordings per semester. In total there are over 4000 recordings within their Opencast system.
 
@@ -48,7 +51,8 @@ The developers in Osnabrück are also interested in capture solutions. TheRec is
 The Osnabrück Opencast team was among the initiators of the german-speaking Opencast community branch that is usually meeting once a year.
 
 ## Contact
-Rüdiger Rolf, Project lead (rrolf@uni-osnabrueck.de, +49 541 969 6511)
-Lars Kiesow, Opencast QA manager (lkiesow@uni-osnabrueck.de, +49 541 969 6533)
-Christian Greweling, Opencast Administrator (cgreweling@uni-osnabrueck.de, +49 541 969 6520)
-Waldemar Smirnow, TheRec Developer (wsmirnow@uni-osnabrueck.de)
+
+- Rüdiger Rolf, Project lead (rrolf@uni-osnabrueck.de, +49 541 969 6511)
+- Lars Kiesow, Opencast QA manager (lkiesow@uni-osnabrueck.de, +49 541 969 6533)
+- Christian Greweling, Opencast Administrator (cgreweling@uni-osnabrueck.de, +49 541 969 6520)
+- Waldemar Smirnow, TheRec Developer (wsmirnow@uni-osnabrueck.de)
