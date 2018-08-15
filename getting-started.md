@@ -1,6 +1,7 @@
 ---
 title: Try, Install and Use Opencast
 description: "These information helps you to get started!"
+redirect_from: "/software/download"
 ---
 {% include software_menu.html %}
 

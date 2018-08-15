@@ -5,3 +5,4 @@ google_analytics: UA-120509325-1
 permalink: :year-:month-:day-:title:output_ext
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
