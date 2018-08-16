@@ -53,4 +53,4 @@ The Opencast codebase is now located on [GitHub](https://github.com/opencast/ope
 
 A full list of changes can be found in the [official release notes](https://docs.opencast.org/r/5.x/admin/releasenotes/).
 
-Visit the [download section](http://www.opencast.org/software/download) for more information on how to get Opencast 5.0.
+Visit the [installation guide](https://docs.opencast.org/r/5.x/admin/installation/) for more information on how to get Opencast 5.

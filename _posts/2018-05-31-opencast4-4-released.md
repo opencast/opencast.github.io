@@ -34,4 +34,4 @@ The new features for this release are:
 
 A full list of changes can be found in the [official release notes](https://docs.opencast.org/r/4.x/admin/releasenotes/).
 
-Visit the [download section](http://www.opencast.org/software/download) for more information on how to get Opencast 4.0.
+Visit the [installation guide](https://docs.opencast.org/r/4.x/admin/installation/) for more information on how to get Opencast 4.
