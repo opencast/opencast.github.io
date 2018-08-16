@@ -18,7 +18,7 @@ backgroundcolor=site.data.colors.box
 {% include fullsizebox.html
 title="Communication"
 description="Find out how to get in contact with the project to get support from the community or even get involved in the project. [Read more...](communication)"
-image="assets/img/communication.png"
+image="assets/img/communication_03.png"
 linkurl="communication"
 align="right"
 %}

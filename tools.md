@@ -38,7 +38,7 @@ title="Galicaster"
 description="Galicaster is a capture software that works together with Opencast. Additional to recording devices with Galicaster that can be purchased from Teltek, it is available for download for non-commercial usage.
 
 [Galicaster Homepage](https://wiki.teltek.es/display/Galicaster/Galicaster+project+Home)"
-image="assets/img/galicaster-ui.png"
+image="assets/img/galicaster-ui.jpg"
 linkurl="https://wiki.teltek.es/display/Galicaster/Galicaster+project+Home"
 align="left"
 imagewidth="50%"
