@@ -11,10 +11,10 @@ Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) [1] is a strong resear
 all over the world.
 
 The Multimedia Department at RRZE (the University IT service provider) has a long history of using professional lecture capture technology, and the first lecture capture video was published in 2002 [2]. In 2009, RRZE announced the launch of an online web video platform [3] as the official publication channel for all University video material. Today the department has one manager, four employees for capture and editing, two employees for team and management administration, one developer, and five to six student assistants every semester. The video portal hosts more than 18,000 educational resources online.
-<img src="assets/img/pic_1.jpg">
+
+![Video editting room](assets/img/2015-05-01-friedrich-alexander-university-erlangen-nuremberg/video-editting.png)
 
 ## Why did you decide to use Opencast?
-<img src="assets/img/pic_3.png">
 
 FAU’s IT service provider, RRZE, showed great interest from the first steps of Opencast software starting with version 0.5. The need to extend the current infrastructure was clear, while the option of reducing the workload of the staff needed for capture, editing and publishing was really tempting. There were four main reasons for testing and finally choosing the Opencast software:
 
@@ -32,7 +32,7 @@ We decided to keep our video portal as a publication channel and use Opencast se
 - Same quality and encodings, such as the files being processed by professional video editing software (FinalCut Pro)
 - Intro-outro videos for all video-audio formats Picture 1
 
-<img src="assets/img/pic_4.jpg">
+![Video portal default combined layout](assets/img/2015-05-01-friedrich-alexander-university-erlangen-nuremberg/default-combined-layout.png)
 Picture 1
 Video portal default combined layout. Post editing with Adobe Photoshop and Finalcut Pro
 
@@ -42,7 +42,7 @@ Videos are published in our video portal admin area using the Opencast REST API,
 
 This winter semester 2015/2016, a clip [4] was produced exclusively by Opencast 2.0.1 and captured with Galicaster 1.4.1. The combined video file used dynamic Opencast metadata rendering.
 
-<img src="assets/img/pic_5.png">
+![Depiction of the watermarking process](assets/img/2015-05-01-friedrich-alexander-university-erlangen-nuremberg/watermark-process.png)
 
 ##  Hardware-software description
 Opencast Ubuntu 14.04 server nodes (October 2015)
@@ -55,7 +55,7 @@ Opencast Ubuntu 14.04 server nodes (October 2015)
 
 + Nagios and munin monitoring
 
-Capture agents
+Capture agents:
 5 Galicaster CA1.4.1 (with Ubuntu 12.04) and 4 NCast PR-720M
 
 Depending on the layout of the room, we have different capture agents set up with a mix of automatic and scheduled recordings.
@@ -74,10 +74,11 @@ Stefanos Georgopoulos, RRZE Multimedia and E-learning
 (stefanos.georgopoulos@fau.de, +49 9131 8520190)
 
 Michael Gräve, RRZE Multimedia and E-learning
-(michael.graeve@fau.de, +49 9131 8528898, 8529953 )
+(michael.graeve@fau.de, +49 9131 8528898, 8529953)
 
 ## References
-[1] http://fau.de
-[2] http://www.video.uni-erlangen.de/clip/id/231
-[3] http://www.fau.tv
-[4] http://www.video.uni-erlangen.de/clip/id/5528.html
+
+1. <https://fau.de>
+2. <https://video.uni-erlangen.de/clip/id/231>
+3. <https://fau.tv>
+4. <https://video.uni-erlangen.de/clip/id/5528.html>
