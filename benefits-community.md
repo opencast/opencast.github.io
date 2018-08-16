@@ -15,10 +15,10 @@ The community provides support to new adopters and savvy users on a number of re
 
 As Opencast is open source software, there are several institutional branches with adaptations of Opencast to their needs. Several of these branches are publicly available, so that other institutions would be able to re-use these changes, if they fit their needs.
 
-## Getting Matterhorn Support
+## Getting Community Support
 Trying to install and use Opencast, but running into problems? Below are the recommended mechanisms for getting help:
 
 1. Search the [mailing list](https://groups.google.com/a/opencast.org/forum/?fromgroups#%21forum/matterhorn-users) archives of the Opencast users list to see if someone else has already gotten support for the same issue.
-2. Join the Opencast-Users group and submit a post to [matterhorn-users@opencast.org – subscription](mailto:matterhorn-users@opencast.org) is required.
-3. Log into #opencast on IRC and ask for help; [More details](http://www.opencast.uni-osnabrueck.de/community) here.
-4. [Submit your support request or bug report in JIRA](https://opencast.jira.com/secure/Dashboard.jspa) (“Create”)
+2. Join the Opencast-Users list and submit a post to [matterhorn-users@opencast.org – subscription](mailto:matterhorn-users@opencast.org) is required.
+3. Log into #opencast on IRC and ask for help
+4. [Submit your bug report in JIRA](https://opencast.jira.com)
