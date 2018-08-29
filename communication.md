@@ -67,7 +67,7 @@ content="## Opencast Security
 {% include simplebox.html backgroundcolor=site.data.colors.box
 content="## German-speaking community
 
-[anwender@opencast.org](mailto:anwender@opencast.orgs)
+[anwender@opencast.org](mailto:anwender@opencast.org)
 - For issues unique to German, Austrian, and Swiss institutions (cooperation, meetings etc.)
 - For anyone feeling more comfortable discussing Opencast-related issues in German
 
