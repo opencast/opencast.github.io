@@ -78,8 +78,8 @@ content="## German-speaking community
 {% include simplebox.html backgroundcolor=site.data.colors.box
 content="## IRC Channel #opencast
 
--On irc.freenode.net, the chat group #opencast is used around the clock for real-time assistance by both users and develoeprs.
-Feel free to use the [webchat webinterface](http://webchat.freenode.net/?channels=opencast) to access this chat directly or [find a client](https://en.wikipedia.org/wiki/Comparison_of_Internet_Relay_Chat_clientst); in addition, this [IRC primer](http://www.irchelp.org/irchelp/ircprimer.html) should help get you started.
+- On irc.freenode.net, the chat group #opencast is used around the clock for real-time assistance by both users and develoeprs.
+Feel free to use the [webchat webinterface](https://webchat.freenode.net/?channels=opencast) to access this chat directly or [find a client](https://en.wikipedia.org/wiki/Comparison_of_Internet_Relay_Chat_clientst); in addition, this [IRC primer](https://www.irchelp.org/irchelp/ircprimer.html).
 "%}
 
 

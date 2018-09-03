@@ -21,7 +21,7 @@ imagewidth="50%"
 title="Track4K"
 description="Modern cameras can capture up to 4K resultion. This offers more detail than most current displays can show. Track4K analyses the high-res video and crops videos based on the actions within the video. There is also an interactive mode for the Paella player that automatically zooms in but allows the user to change the viewing area manually.
 
-[Track4K Homepage](http://track4k.co.za/index.html)"
+[Track4K Homepage](https://track4k.co.za)"
 image="assets/img/track4k.jpg"
 linkurl="https://track4k.co.za"
 align="left"
