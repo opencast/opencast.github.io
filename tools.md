@@ -90,12 +90,12 @@ backgroundcolor=site.data.colors.box
 # Player
 
 {% include fullsizebox.html
-title="Annotating Academic Video Tool"
-description="Annotating Academic Video is a free and open-source annotation tool. The aim of this software is provide teacher and learners with an easy to use tool to annotate videos.
+title="Opencast Annotating Tool"
+description="The Opencast Annotating Tool is a free and open-source annotation tool. The aim of this software is provide teacher and learners with an easy to use tool to annotate videos.
 
-[Annotating Academic Video Tool Homepage](https://bitbucket.org/opencast-community/annotation-tool)"
+[Opencast Annotating Tool Homepage](https://github.com/opencast/annotation-tool)"
 image="assets/img/annotationtool.png"
-linkurl="https://bitbucket.org/opencast-community/annotation-tool"
+linkurl="https://github.com/opencast/annotation-tool"
 align="left"
 imagewidth="50%"
 backgroundcolor=site.data.colors.box
