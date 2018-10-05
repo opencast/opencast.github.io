@@ -10,7 +10,7 @@ Committers are active developers or other active contributors that help with the
 
 - [Christian Greweling](https://github.com/CGreweling)
 - [Greg Logan](https://github.com/gregorydlogan)
-- [James Perrin](https://github.com/TurRil)
+- [James Perrin](https://github.com/JamesUoM)
 - [Karen Dolan](https://github.com/karendolan)
 - [Katrin Ihler](https://github.com/katrinihler)
 - [Lars Kiesow](https://github.com/lkiesow)
