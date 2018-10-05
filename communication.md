@@ -43,7 +43,9 @@ content="## Opencast Development List
 
 [Subscribe/archive](https://groups.google.com/a/opencast.org/forum/#!forum/dev)
 
-**NOTE: You should also be subscribed to the Community list, as some important announcements about Opencast will only be sent to the Community list. We assume everyone on the dev@ list is also on the announcements@ list**"
+**NOTE: You should also be subscribed to the Community list, as some important
+announcements about Opencast will only be sent to the Community list. We assume
+everyone on the dev@ list is also on the announcements@ list**"
  %}
 
 
@@ -52,9 +54,9 @@ content="## Opencast Security Notices
 
 [security-notices@opencast.org](mailto:security-notices@opencast.org)
 - For notices relating to security issues in Opencast
-- Recommended for all Opencast development team members, anyone running a Opencast instance 
+- Recommended for all Opencast development team members, anyone running a Opencast instance
 
-[Subscribe/archive](https://groups.google.com/a/opencast.org/forum/#!forum/security-notices)" 
+[Subscribe/archive](https://groups.google.com/a/opencast.org/forum/#!forum/security-notices)"
 %}
 
 {% include simplebox.html backgroundcolor=site.data.colors.box
@@ -73,7 +75,10 @@ content="## German-speaking community
 
 [Subscribe/archive](https://groups.google.com/a/opencast.org/forum/#!forum/anwender)
 
-**NOTE: You should also be subscribed to the Community list, as some important announcements about Opencast will only be sent to the Community list. We assume everyone on the anwender@ list is also on the announcements@ list**"%}
+**NOTE: You should also be subscribed to the Community list, as some important
+announcements about Opencast will only be sent to the Community list. We assume
+everyone on the anwender@ list is also on the announcements@ list**"
+%}
 
 {% include simplebox.html backgroundcolor=site.data.colors.box
 content="## Moodle plugin for Opencast
@@ -83,6 +88,7 @@ content="## Moodle plugin for Opencast
 - Mainly in German, English contributions are welcome
 
 [Subscribe/archive](https://groups.google.com/a/opencast.org/forum/#!forum/moodle-opencast)
+"%}
 
 
 {% include simplebox.html backgroundcolor=site.data.colors.box
