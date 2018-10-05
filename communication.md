@@ -6,7 +6,7 @@ description: "This is how to get in contact with the project"
 
 # Communications
 
-These are the official mailing lists of the Opencast Community. If you are seeking support for running Opencast, we would recommend to subscribe to the Opencast users list. If you are interested in general announcements, the community list is probably the list that you would like to join.
+These are the official mailing lists of the Opencast Community. If you are seeking support for installing or operating Opencast, we recommend subscribing to the Opencast users list. Posting requires an account for GMail.
 
 {% include simplebox.html backgroundcolor=site.data.colors.box
 content="## Opencast Announcements
@@ -16,7 +16,7 @@ content="## Opencast Announcements
 - More a newsletter, as users cannot post to this list
 - Highly recommended for everybody interested in the Opencast software and community
 
-[Archive](https://groups.google.com/a/opencast.org/forum/#!forum/announcements)" %}
+[Subscribe/archive](https://groups.google.com/a/opencast.org/forum/#!forum/announcements)" %}
 
 {% include simplebox.html backgroundcolor=site.data.colors.box
 content="## Opencast Users
@@ -27,7 +27,7 @@ content="## Opencast Users
 - For anyone who wants to support others who are using Opencast
 - Before posting, cf. archive
 
-[Archive](https://groups.google.com/a/opencast.org/forum/#!forum/users)
+[Subscribe/archive](https://groups.google.com/a/opencast.org/forum/#!forum/users)
 
 **NOTE: As a community support group, all subscribers are encouraged to help out with any support needs that come across the list.**" %}
 
@@ -41,7 +41,7 @@ content="## Opencast Development List
 - For all Opencast Development Team members
 - Before posting, cf. archive.
 
-[Archive](https://groups.google.com/a/opencast.org/forum/#!forum/dev)
+[Subscribe/archive](https://groups.google.com/a/opencast.org/forum/#!forum/dev)
 
 **NOTE: You should also be subscribed to the Community list, as some important announcements about Opencast will only be sent to the Community list. We assume everyone on the dev@ list is also on the announcements@ list**"
  %}
@@ -54,7 +54,7 @@ content="## Opencast Security Notices
 - For notices relating to security issues in Opencast
 - Recommended for all Opencast development team members, anyone running a Opencast instance 
 
-[Archive](https://groups.google.com/a/opencast.org/forum/#!forum/security-notices)" 
+[Subscribe/archive](https://groups.google.com/a/opencast.org/forum/#!forum/security-notices)" 
 %}
 
 {% include simplebox.html backgroundcolor=site.data.colors.box
@@ -71,9 +71,19 @@ content="## German-speaking community
 - For issues unique to German, Austrian, and Swiss institutions (cooperation, meetings etc.)
 - For anyone feeling more comfortable discussing Opencast-related issues in German
 
-[Archive](https://groups.google.com/a/opencast.org/forum/#!forum/anwender)
+[Subscribe/archive](https://groups.google.com/a/opencast.org/forum/#!forum/anwender)
 
 **NOTE: You should also be subscribed to the Community list, as some important announcements about Opencast will only be sent to the Community list. We assume everyone on the anwender@ list is also on the announcements@ list**"%}
+
+{% include simplebox.html backgroundcolor=site.data.colors.box
+content="## Moodle plugin for Opencast
+
+[moodle-opencast@opencast.org](mailto:moodle-opencast@opencast.org)
+- For discussions around Moodle, Opencast, and the plugin connecting them in particular
+- Mainly in German, English contributions are welcome
+
+[Subscribe/archive](https://groups.google.com/a/opencast.org/forum/#!forum/moodle-opencast)
+
 
 {% include simplebox.html backgroundcolor=site.data.colors.box
 content="## IRC Channel #opencast
