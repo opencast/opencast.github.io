@@ -121,9 +121,3 @@ imagewidth="40%"
 %}
 
 
-{% include fullsizebox.html
-image="assets/img/Harvard600x400.jpg"
-align="left"
-imagewidth="40%"
-%}
-
