@@ -12,7 +12,7 @@ all over the world.
 
 The Multimedia Department at RRZE (the University IT service provider) has a long history of using professional lecture capture technology, and the first lecture capture video was published in 2002 [2]. In 2009, RRZE announced the launch of an online web video platform [3] as the official publication channel for all University video material. Today the department has one manager, four employees for capture and editing, two employees for team and management administration, one developer, and five to six student assistants every semester. The video portal hosts more than 30,000 educational resources online.
 
-![Video editting room](assets/img/2018-09-19-friedrich-alexander-university-erlangen-nuremberg/video-editting.png)
+![Video editing room](assets/img/2018-09-19-friedrich-alexander-university-erlangen-nuremberg/video-editting.png)
 
 ## Why did you decide to use Opencast?
 
