@@ -1,7 +1,7 @@
 ---
 title: Meeting of the German-speaking community in Erlangen, Germany
 date: 2018-09-29
-description: Meeting of the German-speaking community in Erlangen, Germany  
+description: Recordings are now available of the meeting of the German-speaking community in Erlangen, Germany  
 category: news
 tags: [community, DACH, Erlangen]
 image: assets/img/DACH-2018.jpg
