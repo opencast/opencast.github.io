@@ -101,6 +101,10 @@ Feel free to use the [webchat webinterface](https://webchat.freenode.net/?channe
 
 {% include webmeetings.html %}
 
+# Community Calendar
+
+<iframe src="https://calendar.google.com/calendar/embed?title=Opencast%20Community%20Calendar%20(GMT)&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=opencast.org_tje2fm34ernnbm0f9saiogp8g0%40group.calendar.google.com&amp;color=%23B1440E&amp;ctz=UTC" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 # Contact
 
 {% include contact.html %}
