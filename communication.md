@@ -6,14 +6,14 @@ description: "This is how to get in contact with the project"
 
 # Communications
 
-These are the official mailing lists of the Opencast Community. If you are seeking support for installing or operating Opencast, we recommend subscribing to the Opencast users list. Posting requires an account for GMail.
+These are the official communication channels of the Opencast Community. If you are looking for support when installing or operating Opencast, we recommend subscribing to the Opencast users list; posting requires an account for GMail.
 
 {% include simplebox.html backgroundcolor=site.data.colors.box
-content="## Opencast Announcements
+content="## Opencast Announcements (community list)
 
 [announcements@opencast.org](mailto:announcements@opencast.org)
 - For all matters related to academic video (technical, didactical) in general and Opencast in particular; announcements
-- More a newsletter, as users cannot post to this list
+- More a newsletter, as users cannot post to this list; low traffic therefore
 - Highly recommended for everybody interested in the Opencast software and community
 
 [Subscribe/archive](https://groups.google.com/a/opencast.org/forum/#!forum/announcements)" %}
@@ -23,7 +23,6 @@ content="## Opencast Users
 
 [users@opencast.org](mailto:users@opencast.org)
 - For anyone who is testing or using Opencast and need support around installation, configuration and implementation
-
 - For anyone who wants to support others who are using Opencast
 - Before posting, cf. archive
 
@@ -67,7 +66,7 @@ content="## Opencast Security
 - Use this list to report security issues to the team" %}
 
 {% include simplebox.html backgroundcolor=site.data.colors.box
-content="## German-speaking community
+content="## German-speaking community (DACH)
 
 [anwender@opencast.org](mailto:anwender@opencast.org)
 - For issues unique to German, Austrian, and Swiss institutions (cooperation, meetings etc.)
@@ -75,8 +74,8 @@ content="## German-speaking community
 
 [Subscribe/archive](https://groups.google.com/a/opencast.org/forum/#!forum/anwender)
 
-**NOTE: You should also be subscribed to the Community list, as some important
-announcements about Opencast will only be sent to the Community list. We assume
+**NOTE: You should also be subscribed to the community list, as some important
+announcements about Opencast will only be sent to the community list. We assume
 everyone on the anwender@ list is also on the announcements@ list**"
 %}
 
@@ -99,7 +98,18 @@ Feel free to use the [webchat webinterface](https://webchat.freenode.net/?channe
 "%}
 
 
-{% include webmeetings.html %}
+
+{% include simplebox.html backgroundcolor=site.data.colors.box
+content="## Webmeetings
+
+Best entry point to the community probably is our *Adopters’ meeting* on the last Wednesday of every other month (cf. calendar below for details). The meeting is at 3pm UTC at <https://opencast.blindsidenetworks.net> (password: welcome). An agenda for this meeting is usually announced a few days before the meeting on the users mailinglists.
+
+There is also a german-speaking *Adopters’ meeting* on the last Wednesday of every other month (February, April, June, August, October). The meeting is at 15:00 CEST at <https://opencast.blindsidenetworks.net> (password: welcome). An agenda for this meeting is usually announced a few days before the meeting on the german-speaking mailing list.
+
+There is also a weekly *technical meeting* for developers and sysops on Tuesdays at 3pm UTC on <https://opencast.blindsidenetworks.net> (password: welcome). An agenda is also announced before the meeting on the developers’ mailing-lists.
+"%}
+
+
 
 # Community Calendar
 
