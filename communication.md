@@ -104,7 +104,7 @@ content="## Webmeetings
 
 Best entry point to the community probably is our *Adopters’ meeting* on the last Wednesday of every other month (cf. calendar below for details). The meeting is at 3pm UTC at <https://opencast.blindsidenetworks.net> (password: welcome). An agenda for this meeting is usually announced a few days before the meeting on the users mailinglists.
 
-There is also a german-speaking *Adopters’ meeting* on the last Wednesday of every other month (February, April, June, August, October). The meeting is at 15:00 CEST at <https://opencast.blindsidenetworks.net> (password: welcome). An agenda for this meeting is usually announced a few days before the meeting on the german-speaking mailing list.
+There is also a german-speaking *Adopters’ meeting* on the last Wednesday of every other month (February, April, June, August, October). The meeting is at 15:00 CEST at [Big Blue Button] (https://opencast.blindsidenetworks.net)(password: welcome). An agenda for this meeting is usually announced a few days before the meeting on the german-speaking mailing list.
 
 There is also a weekly *technical meeting* for developers and sysops on Tuesdays at 3pm UTC on <https://opencast.blindsidenetworks.net> (password: welcome). An agenda is also announced before the meeting on the developers’ mailing-lists.
 "%}
