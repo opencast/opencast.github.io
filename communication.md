@@ -102,11 +102,13 @@ Feel free to use the [webchat webinterface](https://webchat.freenode.net/?channe
 {% include simplebox.html backgroundcolor=site.data.colors.box
 content="## Webmeetings
 
-Best entry point to the community probably is our *Adopters’ meeting* on the last Wednesday of every other month (cf. calendar below for details). The meeting is at 3pm UTC at <https://opencast.blindsidenetworks.net> (password: welcome). An agenda for this meeting is usually announced a few days before the meeting on the users mailinglists.
+Best entry point to the community probably is our *adopters’ meeting* on the last Wednesday of every other month (cf. calendar below for details). The meeting is at 3pm UTC in [Big Blue Button](https://opencast.blindsidenetworks.net) (password: welcome). An agenda for this meeting is usually announced a few days before the meeting on the users' mailing list.
 
-There is also a german-speaking *Adopters’ meeting* on the last Wednesday of every other month (February, April, June, August, October). The meeting is at 15:00 CEST at [Big Blue Button] (https://opencast.blindsidenetworks.net)(password: welcome). An agenda for this meeting is usually announced a few days before the meeting on the german-speaking mailing list.
+For developers, sysops, committers, contributors, and everyone interested in the further development of Opencast the *technical meeting* is a must every Tuesdays at 3pm UTC on <https://opencast.blindsidenetworks.net> (password: welcome). An agenda will be announced before the meeting on the developers’ mailing list.
 
-There is also a weekly *technical meeting* for developers and sysops on Tuesdays at 3pm UTC on <https://opencast.blindsidenetworks.net> (password: welcome). An agenda is also announced before the meeting on the developers’ mailing-lists.
+Last but not least, there is an *adopters’ meeting* for the german-speaking community on the last Wednesday of every other month at 15:00 CEST in the Opencast meeting space of [Big Blue Button](https://opencast.blindsidenetworks.net) (password: welcome). An agenda for this meeting is usually announced a few days before the meeting on the german-speaking mailing list.
+
+
 "%}
 
 
