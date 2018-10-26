@@ -6,14 +6,16 @@ description: Opencast offers a rich set of features to support educators, learne
 
 {% include fullsizebox.html
 title="Schedule"
-description="Opencast Schedule lets you schedule an event to be automatically recorded on specific days and times of the week, and the distribution channel to which the recordings will be published.
+description="Opencast has an advanced scheduling system.  You can schedule, decide how to process each recording, and how to publish that recording on a per-event basis.  Want to schedule Tuesday and Thursday from 10 to 11, processing the media to both 720p and 1080p, then distribute to YouTube  You can do that, all in one wizard.  What about restricting access to certain users?  Opencast can do that!  Our scheduling system not only checks for conflicts, but also keeps track of detailed bibliographical data about who, and what, is in a given recording.  The scheduling system can also mark recordings as requiring additional input prior to publication.  This can anything from administrative review, to editing of the media prior to processing.
 
-- Based on open standard iCal format
-- Manual or automated capture based on schedule
-- Configurable capture encoding specifications
-- iCalendar import from external scheduling source
-- Integrates with open source and proprietary capture hardware
-- Tools for disaster recovery"
+Our scheduling system...:
+
+- Outputs open standard iCal format
+- Supports manual content ingest and automated capture based on schedule
+- Allows user configurable capture encoding specifications
+- Has per event access control settings
+- Can import iCalendar from external scheduling source
+- Integrates with open source and proprietary capture hardware"
 image="assets/img/large-schedule.jpg"
 align="left"
 imagewidth="40%"
