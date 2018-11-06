@@ -8,6 +8,7 @@ description: "These developers, committers and institutions are actively working
 
 Committers are active developers or other active contributors that help with their activities to keep the software alive.
 
+- [Carlos Turro](https://github.com/turro)
 - [Christian Greweling](https://github.com/CGreweling)
 - [Greg Logan](https://github.com/gregorydlogan)
 - [James Perrin](https://github.com/JamesUoM)
