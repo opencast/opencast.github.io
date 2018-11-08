@@ -18,7 +18,7 @@ __[Media Module/End user interface](https://stable.opencast.org/engage/ui)__
 # [Install it!](https://docs.opencast.org/r/5.x/admin/installation/)
 Want to run Opencast locally?  Opencast runs on Linux or MacOS servers. There are repositories with binaries available for CentOS (RPM) and Debian (DEB) like distributions. There are also Docker images available. If none of this works for you, you also download the [raw binaries](https://github.com/opencast/opencast/releases), or use our detailed guide on how to build [Opencast from source](https://github.com/opencast/opencast) yourself.
 
-Detailed instructions on how to install Opencast can be found in our [installation guide](https://docs.opencast.org/r/5.x/admin/installation/).
+[Installation guide](releases.md)
 
 # Adopt it!
 Interested in adopting Opencast?  Whether you've only tried the demo system and have questions, or need detailed
