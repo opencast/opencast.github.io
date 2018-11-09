@@ -92,7 +92,7 @@ documented. During 2014/15 we plan to focus on increasing Opencast performance f
 ## Contact information
 For more information please feel free to contact us:
 
-Stuart Phillipson, Project manager and operations.
-James Perrin, Developer
-Tobias Schiebeck, Developer
-Andy Wilson, Developer
+- [Stuart Phillipson](mailto:stuart.phillipson@manchester.ac.uk), Project manager and operations.
+- James Perrin, Developer
+- Tobias Schiebeck, Developer
+- Andy Wilson, Developer
