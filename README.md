@@ -2,8 +2,8 @@ Opencast is a flexible, scalable and reliable video capture, distribution, and m
 
 {% include software.html %}
 
-# Save the date!
-<b>2019</b> Opencast summit, <b>January 16-18</b>, Zurich, Switzerland. [The call for proposals has been published.](https://blogs.ethz.ch/opencast2019/call/)
+# Registration is now open!
+<b>2019</b> Opencast summit, <b>January 16-18</b>, Zurich, Switzerland. [The call for proposals has been published](https://blogs.ethz.ch/opencast2019/call/) and [registration is open.](https://www.converia.ethz.ch/frontend/index.php?sub=85)
 
 ---
 
