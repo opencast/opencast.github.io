@@ -14,7 +14,7 @@ upgrade time.
 
 # Opencast 5
 
-Opencast 5's latest release is [Opencast 5.1](https://github.com/opencast/opencast/releases/tag/5.1).
+Opencast 5's latest release is [Opencast 5.5](https://github.com/opencast/opencast/releases/tag/5.5).
 Installation instructions can be found in our [documentation](https://docs.opencast.org/r/5.x/admin/installation/).
 
 Opencast 5 will reach **end of support** with the release of Opencast 7 in **June 2019**.
