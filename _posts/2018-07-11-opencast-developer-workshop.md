@@ -3,7 +3,7 @@ title: Opencast Developer Workshop 2018
 date: 2018-07-11
 description: November 13th to 15th 2018 in Osnabrück, Germany. 
 category: event
-tags: [event, upcoming, developer, workshop, java, html, javascript]
+tags: [event, developer, workshop, java, html, javascript]
 image: assets/img/developer-workshop.png
 ---
 
