@@ -10,7 +10,7 @@ image: assets/img/sta_zentrum_hauptgebaeude_041_small.jpg
 The annual meeting of the Opencast community offers you to chance to meet other Opencast users, developers, or anyone involved in the management of academic video.
 <!-- More --->
 
-[Conference website](https://blogs.ethz.ch/opencast2019/)
-[Call for proposals](https://blogs.ethz.ch/opencast2019/call/)
-[Registration](https://www.converia.ethz.ch/frontend/index.php?folder_id=364)
-[Contact](mailto:2019_opencast_summit@id.ethz.ch)
+- [Conference website](https://blogs.ethz.ch/opencast2019/)
+- [Call for proposals](https://blogs.ethz.ch/opencast2019/call/)
+- [Registration](https://www.converia.ethz.ch/frontend/index.php?folder_id=364)
+- [Contact](mailto:2019_opencast_summit@id.ethz.ch)
