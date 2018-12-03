@@ -2,8 +2,8 @@
 title: transLectures
 date: 2015-05-01
 description: The EU-funded translectures project focuses on the automated transcription and translation of lecture recordings.
-category: user
-tags: [user]
+category: deprecated
+tags: [deprecated]
 logo: assets/img/translectures-logo.png
 ---
 
