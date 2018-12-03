@@ -4,7 +4,7 @@ description: "As an open-source project, it is hard to tell how many institution
 ---
 {% include community_menu.html %}
 
-# Institutions that use Opencast
+# Opencast success stories
 Some adopters of Opencast were able to provide some feedback on how they use Opencast and what they have contributed back to the project.
 
 {% include box-start.html backgroundcolor="#dfe6ed" %}
