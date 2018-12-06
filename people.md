@@ -1,6 +1,6 @@
 ---
 title: The People that Keep Opencast Alive
-description: "These developers, committers and institutions are actively working to improve Opencast and keep the software and the community alive."
+description: "Numerous users, contributors, developers, committers, and institutions are actively working to improve Opencast and keep the software and the community alive."
 ---
 {% include community_menu.html %}
 
@@ -121,4 +121,9 @@ align="right"
 imagewidth="40%"
 %}
 
+{% include fullsizebox.html
+image="assets/img/logo-stuttgart.svg"
+align="left"
+imagewidth="40%"
+%}
 
