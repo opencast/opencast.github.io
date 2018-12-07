@@ -122,7 +122,7 @@ imagewidth="40%"
 %}
 
 {% include fullsizebox.html
-image="assets/img/logo-stuttgart.png"
+image="assets/img/logo-stuttgart.jpg"
 align="left"
 imagewidth="40%"
 %}
