@@ -8,7 +8,7 @@ description: "The Opencast Project thrives off of community engagement, sharing 
 
 {% include fullsizebox.html
 title="Users"
-description="As we are an free and open-source project, we cannot tell exactly how many institutions are using Opencast wordwide. But we have some reference users that are sharing their story how they use Opencast. [Read more...](users)"
+description="Find out who is using Opencast and read stories on how others use Opencast. [Read more...](users)"
 image="assets/img/eth_studenten_02.png"
 linkurl="users"
 align="right"
@@ -17,7 +17,7 @@ backgroundcolor=site.data.colors.box
 
 {% include fullsizebox.html
 title="Communication"
-description="Find out how to get in contact with the project to get support from the community or even get involved in the project. [Read more...](communication)"
+description="Find out how to contact the project, how to get support from the community, and how to get involved in the project. [Read more...](communication)"
 image="assets/img/communication_03.png"
 linkurl="communication"
 align="right"
@@ -25,7 +25,7 @@ align="right"
 
 {% include fullsizebox.html
 title="Events"
-description="These are the upcoming Events around Opencast. You can also find recordings from past conferences here. [Read more...](events)"
+description="Upcoming events around Opencast; you can also find recordings from past events here. [Read more...](events)"
 image="assets/img/Konferenz_wien_2.jpg"
 linkurl="events"
 align="right"
@@ -34,7 +34,7 @@ backgroundcolor=site.data.colors.box
 
 {% include fullsizebox.html
 title="People"
-description="These are the people that keep the Opencast community and software alive. [Read more...](people)"
+description="These are the people that keep the Opencast community and its software alive. [Read more...](people)"
 image="assets/img/opencast-summit.png"
 linkurl="people"
 align="right"
