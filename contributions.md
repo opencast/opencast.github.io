@@ -10,7 +10,7 @@ You can download, install, and use Opencast without telling anyone, no problem. 
 The opportunities to support the community grow with your experience: File bugs, help people on list, prepare the next release by testing the latest version. Or take care of the wiki, the website, and inform your respective community about Opencast. It's almost impossible not to contribute.
 
 ## Institutional contributors
-Institutions using Opencast usually decide what their empoloyees can do with respect to the software ; by allowing them to become active members, you are giving back to the community. By joining our meetings and sharing your plans,
+Institutions using Opencast usually decide what their empoloyees can do with respect to the software; by allowing them to become active members, you are giving back to the community. By joining our meetings and sharing your plans,
 you are building the Opencast networks the software relies upon.
 
 ## Institutional supporters
