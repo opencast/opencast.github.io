@@ -1,11 +1,10 @@
 ---
-title: Opencast Community Meetings
+title: Opencast community meetings
+description: "Conferences and workshops organized by the Opencast community and/or with participation by / relevance for the Opencast community."
 ---
-
 {% include community_menu.html %}
 
 # Upcoming Events
-Here are the conferences and workshops organized by the Opencast community and/or with participation by / relevance for the Opencast community.
 
 {% for post in site.posts %}
 {% if post.tags contains "upcoming" %}
