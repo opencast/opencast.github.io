@@ -17,8 +17,9 @@ you are building the Opencast networks the software relies upon.
 The more your institutions benefits from Opencast, the more you should be involved in the product development and the community, host an event or a server the community benefits from.
 
 Once you are successfully providing services with Opencast, think about supporting us by joining the [Apereo foundation](http://apereo.org/): 
-Membership with our umbrella organisation is an "Opencast Supporting Subscription" that provides us with financial resources to strengthen the community, further develop the product or solve specific issues.
-Funding institutions collectively decide what the membership fees should be invested in. If you want to find out more about the [Apereo membership](https://www.apereo.org/content/apereo-membership), please contact the [board](mailto:schulte@id.ethz.ch).
+Membership with our umbrella organisation is an "Opencast Supporting Subscription" that provides us with financial resources to strengthen the community, further develop the product or solve specific issues - funding institutions collectively decide what the membership fees should be invested in. 
+
+Membership fees are flexible towards smaller organisational units and specific contexts. If you want to find out more about the [Apereo membership](https://www.apereo.org/content/apereo-membership), please contact the [board](mailto:schulte@id.ethz.ch).
 
 ## Committers
 Committers are actively coding towards Opencast or contributing to its further development in other forms. 
