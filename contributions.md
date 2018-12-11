@@ -27,4 +27,4 @@ They are the body driving the product according to the projects [governance](htt
 [meritocratic](https://docs.opencast.org/develop/developer/committer/).
 
 ## Sponsors
-Companies relying on Opencast for their commercial offerings can sponsor the project in a [variety of ways](https://opencast.org/sponsors).
+Companies relying on Opencast for their commercial offerings can sponsor the project in a [variety of ways](assets/img/Opencast sponsorship programme.pdf). If you would like to learn more about our sponsorship programme, feel free to [contact us](mailto:schulte@id.ethz.ch).
