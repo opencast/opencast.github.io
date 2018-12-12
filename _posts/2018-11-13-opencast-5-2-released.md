@@ -8,48 +8,36 @@ tags: [release, paella, player, animate, live, scheduler, OAI-PMH, moodle]
 Please note that this maintainance release contains a breaking configuration change. More information can be found in admin [upgrade guide](https://docs.opencast.org/r/5.x/admin/upgrade/#configuration-changes-since-opencast-52) or on the [mailing list](https://groups.google.com/a/opencast.org/forum/#!topic/users/LehzK55BIfU).
 
 
-The new features for Opencast 5.0 are:
+### Opencast 5.2
 
+*Released on November 13, 2018*
 
-* **Paella Player** - The Paella Player is already well known in the Opencast community as external plugin, but now the
-  player is finally integrated into Opencast's core. This makes switching players as easy as changing one configuration
-  property. Additional improvements include more translations as well as caption support.
-
-* **Animate Service** - The animate service can be used to generate custom animated video sequences which can use
-  Opencast's metadata like the author's name or the event's title. This is useful, for example, to automatically generate
-  animated intro sequences to ensure having a homogeneous corporate design for all video recordings.
-
-* **Live Scheduler Service** - With the live scheduler service you are able to schedule and publish live events. The
-  students can then watch the stream while the recording is happening.
-
-* **OAI-PMH Publication Service** - OAI-PMH publication service was created to simplify and unify the publishing process
-  to OAI-PMH repositories. The metadata update handling was also improved in speed and robustness.
-
-* **Moodle User/Role Provider** - The Moodle user/role provider allows to query Moodle users and their roles.
-
-* **New Workflow Operation Handlers**
-    * **clone** - The clone workflow operation can be used to clone media package elements.
-    * **duplicate-event** - The duplicate-event operation can be used to duplicate an event by copying an existing one.
-    * **log** - The log workflow operation can be used to log the current state of a workflow for testing and debugging purposes.
-    * **animate** - The animate workflow operation handler is the entry point to the new animate service.
-
-* **User Interface Improvements**
-    * New translations added: Filipino, Tagalog and Turkish
-    * Additional workflow controls have been added to the adminitration user interface.
-    You can stop running or delete the previous started workflows.
-    * New recordings can be scheduled by specifying the end time or duration.
-    * A click on the recording date in the adminitrative interface event overview will set an filter
-    for recordings at the same date.
-    * Event dialog publications tab has been improved. You can define the name, icon and the order of the publications.
-    * Default workflow is preselected in event create dialog.
-    * The video editor can optionally play segments that are marked for deletion.
-    * The save button in the video editor do not close the editor any more.
-    For this purpose you can use the close button that is placed beside.
-    * You will see an warning message by leaving the video editor with unsaved changes.
-
-* **Other improvements**
-    * Series index and workflow index rebuild performance improved.
-
+- [[MH-13144](https://opencast.jira.com/browse/MH-13144)][[#553](https://github.com/opencast/opencast/pull/553)] -
+  only set Job startDate if no set before
+- [[MH-13216](https://opencast.jira.com/browse/MH-13216)][[#550](https://github.com/opencast/opencast/pull/550)] -
+  Fix Documentation Pages
+- [[MH-13211](https://opencast.jira.com/browse/MH-13211)][[#547](https://github.com/opencast/opencast/pull/547)] -
+  engage-ui: Fix live schedule bug: event available before schedule
+- [[MH-13190](https://opencast.jira.com/browse/MH-13190)][[#520](https://github.com/opencast/opencast/pull/520)] -
+  Factor out JpaGroupRoleProvider JaxRs REST to mitigate load cycle race
+- [[MH-13189](https://opencast.jira.com/browse/MH-13189)][[#517](https://github.com/opencast/opencast/pull/517)] -
+  Fix paella xss security isues in opencast 5.x
+- [[MH-13167](https://opencast.jira.com/browse/MH-13167)][[#490](https://github.com/opencast/opencast/pull/490)] -
+  Republishing metadata does not update all metadata
+- [[MH-13152](https://opencast.jira.com/browse/MH-13152)][[#476](https://github.com/opencast/opencast/pull/476)] -
+  Reduce Workflow Messages
+- [[MH-13138](https://opencast.jira.com/browse/MH-13138)][[#463](https://github.com/opencast/opencast/pull/463)] -
+  Fix media module language configuration
+- [[MH-13108](https://opencast.jira.com/browse/MH-13108)][[#437](https://github.com/opencast/opencast/pull/437)] -
+  Prevent permission problem in Travis cache
+- [[MH-13091](https://opencast.jira.com/browse/MH-13091)][[#421](https://github.com/opencast/opencast/pull/421)] -
+  Concat operation problem with FFMPEG 4.x
+- [[MH-13069](https://opencast.jira.com/browse/MH-13069)][[#406](https://github.com/opencast/opencast/pull/406)] -
+  Update problematic admin interface libraries
+- [[MH-12976](https://opencast.jira.com/browse/MH-12976)][[#389](https://github.com/opencast/opencast/pull/389)] -
+  custom role patterns not working
+- [[MH-12387](https://opencast.jira.com/browse/MH-12387)][[#350](https://github.com/opencast/opencast/pull/350)] -
+  Fix CAS
 
 The Opencast codebase is now located on [GitHub](https://github.com/opencast/opencast).
 
