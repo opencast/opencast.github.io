@@ -53,3 +53,9 @@ A non-comprehensive list of improvements:
 - The tracking options defaults have changed to be more aware of the European Union's General Data Protection Regulation. Note that this is still configurable.
 - The role ROLE_UI_EVENTS_DETAILS_GENERAL_VIEW for viewing the publications (previously general) tab in the event details modal has been renamed to ROLE_UI_EVENTS_DETAILS_PUBLICATIONS_VIEW for consistency.
 - The introduction of capture agent access management implies that unprivileged users do not have access to any capture agents by default. To allow otherwise unprivileged users to interact with event scheduling, you need to configure their access permissions appropriately. For more details, take a look at the capture agent access management documentation.
+
+The Opencast codebase is located on [GitHub](https://github.com/opencast/opencast).
+
+A full list of changes can be found in the [official release notes](https://docs.opencast.org/r/6.x/admin/releasenotes/).
+
+Visit the [installation guide](https://docs.opencast.org/r/6.x/admin/installation/) for more information on how to get Opencast 6.
