@@ -18,14 +18,14 @@ tags: [release]
 - __Processing Settings Persistency__ - A new persistence layer for processing settings has been introduced. This allows the Admin UI to not just provide processing settings as input when starting workflows, but also to display processing settings on event basis.
 - __Capture Agent Access Management__ - The Admin UI now supports access management for capture agents. This features addresses the need to allow unprivileged users to access the Admin UI to manage their own content and cut videos without allowing them to schedule events or change the scheduling as this task is usually in the responsibility of a dedicated team. It is also possible to permit users access to specific subsets of the available capture agents.
 - __New Workflow Operation Handler__
--- __demux__ can be used to demux multiple streams from a container into seperate containers
--- __image-convert__ can convert multiple source images into multiple target images with different encoding
--- __mattermost-notify__ sends notification to services like Mattermost or Slack
--- __move-to-remote__ moves files in the asset manager from one storage system to another
--- __multi-encode__ allows encoding of multiple source tracks into multiple target tracks with differnet encoding
--- __process-smil__ edits media files based on descriptions from a SMIL file
--- __select-tracks__ can filter source tracks based on workflow properties
--- __start-workflow__ allows a workflow to start another workflow
+  - __demux__ can be used to demux multiple streams from a container into seperate containers
+  - __image-convert__ can convert multiple source images into multiple target images with different encoding
+  - __mattermost-notify__ sends notification to services like Mattermost or Slack
+  - __move-to-remote__ moves files in the asset manager from one storage system to another
+  - __multi-encode__ allows encoding of multiple source tracks into multiple target tracks with differnet encoding
+  - __process-smil__ edits media files based on descriptions from a SMIL file
+  - __select-tracks__ can filter source tracks based on workflow properties
+  - __start-workflow__ allows a workflow to start another workflow
 
 ## Improvements
 
