@@ -3,6 +3,8 @@ title: Sweepstake for five Opencast Starter Sets
 description: Win one of five starter-sets for Opencast including a commercially hosted Opencast for one year and a capture agent.
 ---
 
+<img class="fullsizebox-image" src="/assets/img/starter-set.png" alt="Starter Set package" style="float:right; width:400px">
+
 To celebrate Opencast 10th anniversary the Opencast community is giving away five Opencast starter-sets!
 
 We hope that these starter sets will enable instructors, smaller institutes or student initiatives to get an easy start with Opencast and showcase their use case for lecture recording to their institutions. 
