@@ -35,7 +35,7 @@ backgroundcolor=site.data.colors.box
 {% include fullsizebox.html
 title="Contribute"
 description="Supporting the Opencast community takes many forms; [find out what you can do to help.](contributions)"
-image="assets/img/DACH-2018.jpg"
+image="assets/img/opencast-summit.png"
 linkurl="contributions"
 align="right"
 %}
@@ -46,6 +46,7 @@ description="These are the people that keep the Opencast community and its softw
 image="assets/img/opencast-summit.png"
 linkurl="people"
 align="right"
+backgroundcolor=site.data.colors.box
 %}
 
 {% include fullsizebox.html
@@ -54,5 +55,4 @@ description="The rules and regulations of our community. [Read more](governance)
 image="assets/img/governance02.png"
 linkurl="governance"
 align="right"
-backgroundcolor=site.data.colors.box
 %}
