@@ -33,6 +33,14 @@ backgroundcolor=site.data.colors.box
 %}
 
 {% include fullsizebox.html
+title="Contribute"
+description="Supporting the Opencast community takes many forms; [find out what you can do to help.](contributions)"
+image="assets/img/DACH-2018.jpg"
+linkurl="contributions"
+align="right"
+%}
+
+{% include fullsizebox.html
 title="People"
 description="These are the people that keep the Opencast community and its software alive. [Read more...](people)"
 image="assets/img/opencast-summit.png"
