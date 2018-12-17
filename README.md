@@ -3,7 +3,7 @@ Opencast is a flexible, scalable and reliable video capture, distribution, and m
 {% include software.html %}
 
 # Join our annual meeting!
-**2019 Opencast summit, January 16-18, Zurich, Switzerland**. [Registration is still open.](https://www.converia.ethz.ch/frontend/index.php?sub=85); more informatoin on the [conference website](https://blogs.ethz.ch/opencast2019/).
+**2019 Opencast summit, January 16-18, Zurich, Switzerland** [- registration is still open.](https://www.converia.ethz.ch/frontend/index.php?sub=85); more information on the [conference website](https://blogs.ethz.ch/opencast2019/).
 
 # Opencast Starter-Sets Lottery!
 To celebrate the 10th anniversary of Opencast, the community is giving away 5 starter-sets. [Find out more...](starter-set)
