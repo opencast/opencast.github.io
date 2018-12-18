@@ -18,4 +18,4 @@ A set consist of:
 
 *The application will end on January 17th 2019. Winners will be announced at the [Opencast Summit 2019 in Zurich (January 16th to 18th 2019)](https://blogs.ethz.ch/opencast2019/).*
 
-We would like to thank the Apereo foundation, the Friedrich-Alexander-Universität Erlangen-Nürnberg and the Universität Osnabrück for their donations.
+We would like to thank the Apereo foundation, NCast, the Friedrich-Alexander-Universität Erlangen-Nürnberg and the Universität Osnabrück for their donations.
