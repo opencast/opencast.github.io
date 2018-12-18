@@ -12,7 +12,7 @@ We hope that these starter sets will enable instructors, smaller institutes or s
 A set consist of:
 
 * **An Opencast system for one year on a commercial webhoster.** The server will have 4 CPU cores, 16GB RAM and 480GB Storage. This should be enough for around 150 hours of recordings within this year. It is up to the winner to take over the contract after that time or move the installation to their own data centers.  
-* **A hardware capture agent.** This will be an [NCast](https://www.ncast.com/) Presentation Recorder 720 or 1080. The capture agents have been donated by universities that have updated to higher level hardware. They are tested and completly functional, but come without any warranty. NCast is still providing free firmware upgrades for these devices. The winners can keep the recorders, even if they stop using Opencast after the trial year.
+* **A hardware capture agent.** This will be an [NCast](https://www.ncast.com/) Presentation Recorder 720 or 1080. The capture agents have been donated by universities that have updated to higher level hardware. They are tested and completly functional. Although these are used devices NCast is providing a 90-day-hardware-warranty for the winners! NCast also still provides free firmware upgrades for these devices. The winners can keep the recorders, even if they stop using Opencast after the trial year.
 
 ## [To participate in the drawing fill out this form.](https://goo.gl/forms/1jLKAlXaelX5Lqqd2) 
 
