@@ -12,35 +12,11 @@ description: "Conferences and workshops organized by the Opencast community and/
 
 # Past Events
 
-{% for post in site.posts %}
-{% if post.tags contains "past" %}
-
-{% include box-start.html 
-  backgroundcolor=site.data.colors.box 
-%}
-{% if post.image %}
-<img class="fullsizebox-image" src="{{ post.image }}" style="float:left; width:40%;"/>
-{% endif %}
-<div>
-  <h2><a href="{{ post.url | remove_first:'/' }}">{{ post.title }}</a></h2>
-    <p>{{ post.description }}</p>
-    <p>{{ post.excerpt }}</p>
-  <a href="{{ post.url | remove_first:'/' }}">Read more...</a>
-</div>
-{% include box-end.html %}
-
-{% endif %}
-{% endfor %}
-
 {% include fullsizebox.html
-title="2018 Opencast summit"
-description="The website has recording of most of the sessions of this years conference.
-*Thanks to Austria’s Academic Moodle Cooperation for hosting the 2018 Opencast Summit at the University of Vienna.*"
-image="assets/img/opencast2018wien.jpg"
-align="left"
-imagewidth="40%"
-linktext="Watch the Vienna Conference Recordings..."
-linkurl="http://opencast2018.univie.ac.at/programme-and-recordings/"
+title="2019 Opencast summit"
+description="Thanks to ETH Zürich and SWITCH for hosting the 2018 Opencast Summit"
+image="assets/img/2019_OC_landscape_superwide.jpg"
+align="right"
 %}
 
 {% include fullsizebox.html
