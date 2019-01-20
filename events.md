@@ -18,6 +18,13 @@ imagewidth="40%"
 backgroundcolor=site.data.colors.box
 %}
 
+image="assets/img/ls-running.png"
+linkurl="http://lecturesight.org"
+align="left"
+imagewidth="50%"
+%}
+
+
 {% include fullsizebox.html
 title="Conferences and Workshops"
 description="There is one major annual meeting, the Opencast Summit. While this used to be an unconference with an open agenda, we are trying to mix planned sessions with open slots these days, based on feedback we got from the community. Usually, there will be a call for participation to the community with a selection of presentations submitted (if necessary) so that a programme is set a couple of weeks before the event. To maintain the \"unconference style\" there will be empty slots for ad hoc sessions or open discussions. Besides the presentation slot(s) we usually organize a vendor showcase for the latest capture agent technology and service provider offerings.
