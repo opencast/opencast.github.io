@@ -7,8 +7,6 @@ description: "Conferences and workshops organized by the Opencast community and/
 # Upcoming Events
 
 2020 Meeting of the German-speaking community, September 12-13, Munster, Germany.
-backgroundcolor=site.data.colors.box
-%}
 ---
 
 # Past Events
