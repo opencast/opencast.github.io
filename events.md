@@ -16,7 +16,6 @@ description: "Conferences and workshops organized by the Opencast community and/
 image="assets/img/2019_OC_portrait_wide.jpg"
 align="right"
 imagewidth="40%"
-%}
 
 {% include fullsizebox.html
 title="Conferences and Workshops"
