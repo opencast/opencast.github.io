@@ -12,18 +12,6 @@ description: "Conferences and workshops organized by the Opencast community and/
 # Past Events
 
 2019 Opencast summit: Thanks to ETH Zürich and SWITCH for hosting the 2018 Opencast Summit. Recordings are [online](https://www.video.ethz.ch/events/opencast/2019/zurich.html) in the Opencast video archive.
-image="assets/img/2019_OC_portrait_wide.jpg"
-align="right"
-imagewidth="40%"
-backgroundcolor=site.data.colors.box
-%}
-
-image="assets/img/ls-running.png"
-linkurl="http://lecturesight.org"
-align="left"
-imagewidth="50%"
-%}
-
 
 {% include fullsizebox.html
 title="Conferences and Workshops"
