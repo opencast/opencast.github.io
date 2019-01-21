@@ -17,15 +17,15 @@ description: "Conferences and workshops organized by the Opencast community and/
 
 2019 Opencast summit: Thanks to ETH Zürich and SWITCH for hosting the 2018 Opencast Summit. Recordings are [online](https://www.video.ethz.ch/events/opencast/2019/zurich.html) in the Opencast video archive.
 
-
+<br>
 
 {% include fullsizebox.html
 title="Conferences and Workshops"
-description="There is one major annual meeting, the <br>__Opencast Summit__<br>. While this used to be an unconference with an open agenda, we are trying to mix planned sessions with open slots these days, based on feedback we got from the community. Usually, there will be a call for participation to the community with a selection of presentations submitted (if necessary) so that a programme is set a couple of weeks before the event. To maintain the \"unconference style\" there will be empty slots for ad hoc sessions or open discussions. Besides the presentation slot(s) we usually organize a vendor showcase for the latest capture agent technology and service provider offerings.
+description="There is one major annual meeting, the __Opencast Summit__. While this used to be an unconference with an open agenda, we are trying to mix planned sessions with open slots these days, based on feedback we got from the community. Usually, there will be a call for participation to the community with a selection of presentations submitted (if necessary) so that a programme is set a couple of weeks before the event. To maintain the \"unconference style\" there will be empty slots for ad hoc sessions or open discussions. Besides the presentation slot(s) we usually organize a vendor showcase for the latest capture agent technology and service provider offerings.
 
-Plus, there are <br>__regional Opencast meetings__<br>. The German-speaking community for example meets once or twice a year for a workshop.
+Plus, there are __regional Opencast meetings__. The German-speaking community for example meets once or twice a year for a workshop.
 
-Last but not least, there is the annual <br>__Open Apereo Conference__<br>, with members of the Opencast Community joining and – ideally – presenting or organizing seminars and workshops to inform the larger Apereo community about Opencast."
+Last but not least, there is the annual __Open Apereo Conference__, with members of the Opencast Community joining and – ideally – presenting or organizing seminars and workshops to inform the larger Apereo community about Opencast."
 image="assets/img/2019_OC_portrait_wide.jpg"
 align="right"
 imagewidth="40%"
