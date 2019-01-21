@@ -21,7 +21,7 @@ description="There is one major annual meeting, the Opencast Summit. While this 
 Plus, there are regional Opencast meetings. The German-speaking community for example meets once or twice a year for a workshop.
 
 Last but not least, there is the annual Open Apereo Conference, with members of the Opencast Community joining and – ideally – presenting or organizing seminars and workshops to inform the larger Apereo community about Opencast."
-image="assets/img/opencast-summit-2017.jpg"
+image="assets/img/2019_OC_portrait_wide.jpg.jpg"
 align="left"
 imagewidth="40%"
 backgroundcolor=site.data.colors.box
