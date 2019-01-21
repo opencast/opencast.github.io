@@ -22,8 +22,8 @@ Plus, there are regional Opencast meetings. The German-speaking community for ex
 
 Last but not least, there is the annual Open Apereo Conference, with members of the Opencast Community joining and – ideally – presenting or organizing seminars and workshops to inform the larger Apereo community about Opencast."
 image="assets/img/2019_OC_portrait_wide.jpg"
-align="left"
-imagewidth="40%"
+align="right"
+imagewidth="60%"
 backgroundcolor=site.data.colors.box
 %}
 
