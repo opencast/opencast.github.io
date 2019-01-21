@@ -7,10 +7,6 @@ description: "Conferences and workshops organized by the Opencast community and/
 # Upcoming Events
 2019 Meeting of the German-speaking community, September 12-13, Munster, Germany.
 
-2019 NA workshop, details tbd
-
-2020 Opencast summit, Ghent university, Belgium. February 2020.
-
 ---
 
 # Past Events
