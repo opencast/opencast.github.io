@@ -6,6 +6,4 @@ category: release
 tags: [release, maintenance]
 ---
 
-For more details, have a look at the changelog:
-
-  https://docs.opencast.org/r/5.x/admin/changelog/#opencast-53
+For more details, have a look at the changelog in [our documentation](https://docs.opencast.org/r/5.x/admin/changelog/#opencast-53)
