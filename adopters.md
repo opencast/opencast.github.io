@@ -65,7 +65,7 @@ University of Manchester, UK
 University of Sussex, UK
 Keele University, UK
 University of the Arts London, UK
-
+" %}
 
 {% include simplebox.html backgroundcolor=site.data.colors.box
 content="## Rest of the world
