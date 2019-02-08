@@ -36,7 +36,7 @@ Stuart Phillipson, University of Manchester
 Rüdiger Rolf, University of Osnabrück
 
 # Opencast adopters
-These are some of the institutions using Opencast
+These are some of the institutions using Opencast. <a href="mailto:schulte@id.ethz.ch">Drop us a line</a> if you want to know more about any of these.
 
 {% include simplebox.html backgroundcolor=site.data.colors.box
 content="## Europe
