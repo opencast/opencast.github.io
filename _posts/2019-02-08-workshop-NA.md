@@ -1,7 +1,7 @@
 ---
 title: 2019 North American workshop
-date: 2019-02-11
-description: Pleas provide feedback for preparing an Opencast workshop in NA this year.
+date: 2019-02-08
+description:  Please provide feedback for preparing an Opencast workshop in NA this year.
 tags: [workshop, NA]
 ---
 
