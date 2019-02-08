@@ -38,6 +38,9 @@ Rüdiger Rolf, University of Osnabrück
 # Opencast adopters
 These are some of the institutions using Opencast
 
+{% include simplebox.html backgroundcolor=site.data.colors.box
+content="## Europe
+
 -	Arnes Slovenia, Slovenia
 -	Beuth Hochschule Berlin, Germany
 -	ETH Zürich, Switzerland
@@ -95,3 +98,22 @@ These are some of the institutions using Opencast
 -	University of Sussex, UK
 -	University of the Arts London, UK
 -	University of Vigo, Spain
+
+" %}
+
+{% include simplebox.html backgroundcolor=site.data.colors.box
+content="## Rest of the world
+
+- Bagley College of Engineering, USA
+- Cape Town University, South Africa
+- Harvard DCE, USA
+- Northwest University (South Africa), South Africa
+- Rochester IT, USA
+- Universidad Continental de Perú, Perú
+- University of New Mexico, USA
+- University of Ottawa, Canada
+- University of the South Pacific, Fiji
+- University of Toronto Dentistry, Canada
+
+
+"%}
