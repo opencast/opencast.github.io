@@ -105,9 +105,9 @@ content="## Europe
 content="## Rest of the world
 
 - Bagley College of Engineering, USA
-- Cape Town University, South Africa
+- University of Cape Town, South Africa
 - Harvard DCE, USA
-- Northwest University (South Africa), South Africa
+- North-West University, South Africa
 - Rochester IT, USA
 - Universidad Continental de Perú, Perú
 - University of New Mexico, USA
