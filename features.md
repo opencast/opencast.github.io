@@ -66,9 +66,8 @@ description="The Opencast player can be used as a standalone application, or emb
 - REST APIs make it easy to extend to or integrate 
 - Easy customization and localization of the player interface
 - Customizable permissions settings
-- User directory integration (LDAP, CAS etc.)
-
-"image="assets/img/large-playback.jpg"
+- User directory integration (LDAP, CAS etc.)"
+image="assets/img/large-playback.jpg"
 align="right"
 backgroundcolor=site.data.colors.box
 imagewidth="40%"
