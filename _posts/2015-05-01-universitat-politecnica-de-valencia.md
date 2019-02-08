@@ -1,7 +1,7 @@
 ---
 title: Universitat Politécnica de Valencia
 date: 2015-05-01
-description: The Universitat Politécnica de Valencia provides with the Paella Player an alternative engage player for Opencast. They are also initiated the Capture Agent Dashboard software.
+description: The Universitat Politécnica de Valencia is the main developer behind Paella Player, the default video player for Opencast. They are also initiated the Capture Agent Dashboard software.
 category: user
 tags: [user]
 logo: assets/img/upv-logo.png
@@ -90,7 +90,7 @@ We are extending the videopauntes services in many ways, as we have a huge quant
 Carlos Turró turro@cc.upv.es
 
 ## Examples/Samples
-Paella Engage samples: http://paellaengage.webs.upv.es
+Paella Player site: http://paellaplayer.webs.upv.es
 Lecture sample: http://videoapuntes.upv.es:8080/engage/ui/watch.html?id=fdb9ab05-9344-4d63-ae11-904cac90e156
 Monitoring Dashboard: https://github.com/polimediaupv/dashboard/blob/master/screenshot.png
 
