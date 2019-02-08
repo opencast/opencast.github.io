@@ -56,13 +56,19 @@ title="Playback"
 description="The Opencast player can be used as a standalone application, or embedded inside other applications like blogs, wikis or content management systems. Opencast Playback enables slide segmentation and in-video text search. All player functionality is fully accessible, supporting assistive technology across multiple platforms.
 
 - Split-screen player for viewing video and slide content simultaneously
+- Unlimited number of simultaneous video streams
+- Zoom in any video window
+- Automatic slide index
 - Heat maps indicate sections of content most often watched
-- REST APIs make it easy to extend to or integrate players
+- Multiple quality adaptive Streaming support with HTTP Live Streaming (HLS) or MPEG-DASH
+- Subtitles
+- Support for multiple audio tracks
+- REST APIs make it easy to extend to or integrate 
 - Easy customization and localization of the player interface
 - Customizable permissions settings
 - User directory integration (LDAP, CAS etc.)
-- Adaptive Streaming support with HTTP Live Streaming (HLS)"
-image="assets/img/large-playback.jpg"
+
+"image="assets/img/large-playback.jpg"
 align="right"
 backgroundcolor=site.data.colors.box
 imagewidth="40%"
