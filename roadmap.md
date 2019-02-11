@@ -24,8 +24,11 @@ Opencast's roadmap is set by its contributing institutions, so this roadmap chan
 * Integration Paella into the annotation tool
 * Streaming support for the annotation tool using the current video.js player.
 * Update Paella documentation
-
 * Shibboleth login handler
+* Remove Search service dependency from the Annotation tool
+* Additional configuration items around video publication settings
+* Implement URL signing service to allow third-party systems to authorize their users
+* Implement MS Excel export of schedule data
 
 ## 12+ Months
 
@@ -34,6 +37,8 @@ Opencast's roadmap is set by its contributing institutions, so this roadmap chan
 * Replace the video portal
 
 ## Contributing Institutions
+
+The following institutions contributed in the past, or have communicated their intention to contribute one of these roadmap items in the future.  This is just a small subset of the total set of Opencast contributors!
 
 * Harvard Division of Continuing Education
 * University of Manchester
