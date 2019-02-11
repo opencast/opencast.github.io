@@ -4,6 +4,8 @@ description: "As an open-source project, it is hard to tell how many institution
 ---
 {% include community_menu.html %}
 
+<iframe src="https://map.opencast.org" width="832" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 # Opencast success stories
 Some adopters of Opencast were able to provide some feedback on how they use Opencast and what they have contributed back to the project.
 
