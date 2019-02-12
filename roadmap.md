@@ -10,7 +10,7 @@ Opencast's roadmap is set by its contributing institutions, so this roadmap chan
 ## 6 Months
 
 * Add easy keyboard mappings to Paella
-* Adding viewership statistics to the Admin UI, in the form of charts and counter.
+* Adding viewership statistics to the Admin UI, in the form of charts and counter
 * Admin UI embed code generator
 * Automated subtitling
 * Backend library improvements
@@ -22,13 +22,13 @@ Opencast's roadmap is set by its contributing institutions, so this roadmap chan
 * Metrics API to enable autoscaling in cloud environments
 * Infrastructure as Code (IaC) scripts for Amazon Web Services.
 * Integration Paella into the annotation tool
-* Streaming support for the annotation tool using the current video.js player.
+* Streaming support for the annotation tool using the current video.js player
 * Update Paella documentation
 * Shibboleth login handler
 * Remove Search service dependency from the Annotation tool
 * Additional configuration items around video publication settings
 * Implement URL signing service to allow third-party systems to authorize their users
-* Implement MS Excel export of schedule data
+* Implement MS Excel export of Annotation tool data
 
 ## 12+ Months
 
