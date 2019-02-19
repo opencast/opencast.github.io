@@ -118,4 +118,8 @@ content="## Rest of the world
 
 "%}
 
-<iframe src="https://map.opencast.org" width="832" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+{% include simplebox.html backgroundcolor=site.data.colors.box
+content="## Registered Users
+
+<iframe src='https://map.opencast.org' width='800' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>
+"%}
