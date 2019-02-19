@@ -7,7 +7,7 @@ description: Opencast's features are built by the community
 
 Opencast's roadmap is set by its contributing institutions, so this roadmap changes as priorities change.
 
-## 6 Months
+## Opencast 8 (December 2019)
 
 * Add easy keyboard mappings to Paella
 * Adding viewership statistics to the Admin UI, in the form of charts and counter
@@ -41,21 +41,9 @@ Opencast's roadmap is set by its contributing institutions, so this roadmap chan
 * User Interface configuration service
 * Workflow description in the Admin UI
 
-## 12+ Months
+## Opencast 9 (June 2020)
 
 * Additional Paella usability work
 * Comments plugin for Paella and Opencast
 * Replace the video portal
 
-## Contributing Institutions
-
-The following institutions contributed in the past, or have communicated their intention to contribute one of these roadmap items in the future.  This is just a small subset of the total set of Opencast contributors!
-
-* ELAN e.V.
-* Harvard Division of Continuing Education
-* Plapadoo
-* Polytechnic University of Valencia
-* SSystems
-* SWITCH
-* University of Manchester
-* WWU Munster
