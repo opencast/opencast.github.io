@@ -1,4 +1,6 @@
+---
 redirect_from: "/matterhorn"
+---
 
 Opencast is a flexible, scalable and reliable video capture, distribution, and management system for academic institutions. Opencast is built by a growing community of developers in collaboration with leading universities and organizations worldwide.
 
