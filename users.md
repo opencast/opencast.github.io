@@ -71,6 +71,7 @@ content="## Europe
 -	Universidad Católica de Murcia, Spain
 -	Universidad de Murcia, Spain
 -	Universidad Pablo de Olavide (Sevilla), Spain
+- Universidad Técnica Federico Santa María, Chile
 -	Universität Bremen, Germany
 -	Universität Duisburg-Essen (in Vorbereitung), Germany
 -	Universität Erfurt, Germany
