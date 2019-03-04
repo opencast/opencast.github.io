@@ -76,6 +76,7 @@ content="## Europe
 -	Universität Erfurt, Germany
 -	Universität Für Bodenkultur Wien, Austria
 -	Universität Hamburg, Germany
+- Universiteit Hasselt, Belgium
 -	Universität Leipzig, Germany
 -	Universität Münster, Germany
 -	Universität Oldenburg, Germany
