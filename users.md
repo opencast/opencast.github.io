@@ -55,7 +55,7 @@ content="## Europe
 -	Keele University, UK
 -	KIT Karlsruhe, Germany
 -	KU Leuven, Belgium
--	Leibnitz Rechenzentrum München, Germany
+-	Leibniz Supercomputing Centre, Garching, Germany
 -	Martin-Luther-Universität Halle-Wittenberg, Germany
 -	RTH Köln, Germany
 -	RTWH Aachen, Germany
