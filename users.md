@@ -101,6 +101,7 @@ content="## Europe
 -	University of Sussex, UK
 -	University of the Arts London, UK
 -	University of Vigo, Spain
+- Université Clermont Auvergne, France
 
 " %}
 
