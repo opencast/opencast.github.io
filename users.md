@@ -57,6 +57,7 @@ content="## Europe
 -	KU Leuven, Belgium
 -	Leibniz Supercomputing Centre, Garching, Germany
 -	Martin-Luther-Universität Halle-Wittenberg, Germany
+- Rheinische Fachhochschule Köln (RFH), Germany
 -	RTH Köln, Germany
 -	RTWH Aachen, Germany
 -	Ruhr-Uni Bochum, Germany
