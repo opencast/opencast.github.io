@@ -98,7 +98,7 @@ imagewidth="40%"
 %}
 
 {% include fullsizebox.html
-image="assets/img/blindside.png"
+image="assets/img/UCT-round-logo.png"
 align="left"
 imagewidth="40%"
 %}
@@ -110,7 +110,19 @@ imagewidth="40%"
 %}
 
 {% include fullsizebox.html
-image="assets/img/UCT-round-logo.png"
+image="assets/img/logo-stuttgart.jpg"
+align="left"
+imagewidth="40%"
+%}
+
+{% include fullsizebox.html
+image="assets/img/logo_UGent_EN_RGB_2400_kleur_witbg.png"
+align="right"
+imagewidth="40%"
+%}
+
+{% include fullsizebox.html
+image="assets/img/blindside.png"
 align="left"
 imagewidth="40%"
 %}
@@ -120,10 +132,3 @@ image="assets/img/jira.png"
 align="right"
 imagewidth="40%"
 %}
-
-{% include fullsizebox.html
-image="assets/img/logo-stuttgart.jpg"
-align="left"
-imagewidth="40%"
-%}
-
