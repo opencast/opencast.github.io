@@ -1,8 +1,10 @@
 ---
 title: "Opencast Users"
-description: "As an open-source project, it is hard to tell how many institutions are using Opencast. The software does not have to be licensed and the users do not need to register.But from registrations to the repositories we can say that hundreds of different institutions worldwide have downloaded Opencast. Here, we would like to highlight some of the institutions that use Opencast in production."
+description: "Find out who is running Opencast"
 ---
 {% include community_menu.html %}
+
+As an open-source project, it is hard to tell how many institutions are using Opencast. The software does not have to be licensed and the users do not need to register.But from registrations to the repositories we can say that hundreds of different institutions worldwide have downloaded Opencast. Here, we would like to highlight some of the institutions that use Opencast in production.
 
 # Opencast success stories
 Some adopters of Opencast were able to provide some feedback on how they use Opencast and what they have contributed back to the project.
