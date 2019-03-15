@@ -5,6 +5,8 @@ description: "Conferences and workshops organized by the Opencast community and/
 {% include community_menu.html %}
 
 # Upcoming Events
+2019 [Media & Learning](https://www.media-and-learning.eu/), June 5-6, Leuven, Belgium
+
 2019 Meeting of the German-speaking community, September 12-13, Munster, Germany.
 
 ---
