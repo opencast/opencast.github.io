@@ -8,7 +8,7 @@ description: "The Opencast Project thrives off of community engagement, sharing 
 
 {% include fullsizebox.html
 title="Communication"
-description="Find out how to contact the project, how to get support from the community, and [how to get involved in the project](communication)."
+description="Find out how to [contact the project](communication), how to get support from the community, and how to get involved in the project."
 image="assets/img/communication_03.png"
 linkurl="communication"
 align="right"
@@ -16,7 +16,7 @@ align="right"
 
 {% include fullsizebox.html
 title="Users"
-description="Find out who is using Opencast and [read](users) stories on how others use Opencast."
+description="Find out who is using Opencast and [read](users) their stories."
 image="assets/img/eth_studenten_02.png"
 linkurl="users"
 align="right"
