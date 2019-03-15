@@ -50,7 +50,7 @@ align="right"
 
 {% include fullsizebox.html
 title="Supporters"
-description="These institutions are [funding Opencast](supporters)."
+description="These [institutions](supporters) are funding Opencast."
 image="assets/img/eth_studenten_02.png"
 linkurl="supporters"
 align="right"
@@ -59,7 +59,7 @@ backgroundcolor=site.data.colors.box
 
 {% include fullsizebox.html
 title="Governance"
-description="The [rules and regulations](governance)of our community."
+description="The [rules and regulations](governance) of our community."
 image="assets/img/governance02.png"
 linkurl="governance"
 align="right"
