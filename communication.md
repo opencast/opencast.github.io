@@ -1,6 +1,6 @@
 ---
 title: Communication
-description: "This is how to get in contact with the project"
+description: "How to get in contact with the project"
 ---
 {% include community_menu.html %}
 
