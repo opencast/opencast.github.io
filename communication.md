@@ -4,7 +4,7 @@ description: "This is how to get in contact with the project"
 ---
 {% include community_menu.html %}
 
-# Communications
+# Communication
 
 These are the official communication channels of the Opencast Community. If you are looking for support when installing or operating Opencast, we recommend subscribing to the Opencast users list; posting requires an account for GMail.
 
