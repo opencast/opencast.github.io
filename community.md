@@ -29,7 +29,6 @@ description="Upcoming events around Opencast; you can also find recordings from 
 image="assets/img/Konferenz_wien_2.jpg"
 linkurl="events"
 align="right"
-backgroundcolor=site.data.colors.box
 %}
 
 {% include fullsizebox.html
@@ -38,6 +37,7 @@ description="Supporting the Opencast community takes many forms; [find out what 
 image="assets/img/DACH-2018-small.jpg"
 linkurl="contributions"
 align="right"
+backgroundcolor=site.data.colors.box
 %}
 
 {% include fullsizebox.html
@@ -46,7 +46,6 @@ description="These are the people that keep the Opencast community and its softw
 image="assets/img/opencast-summit.png"
 linkurl="people"
 align="right"
-backgroundcolor=site.data.colors.box
 %}
 
 {% include fullsizebox.html
