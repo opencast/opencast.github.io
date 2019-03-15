@@ -67,5 +67,5 @@ The Opencast Community elects a board that looks after the overall status and di
 - Vicente Goyanes, University of Vigo
 - Greg Logan, Opencast Consultant (voted representative of the committers)
 - Stephen Marquard, University of Cape Town
-- Carlos Turró Ribalta, Universitat Politécnica de Valencia (selected member)
-- Rüdiger Rolf, University of Osnabruck (selected member)
+- Carlos Turró Ribalta, Universitat Politécnica de Valencia
+- Rüdiger Rolf, University of Osnabruck
