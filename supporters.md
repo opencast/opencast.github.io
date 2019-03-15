@@ -44,7 +44,7 @@ imagewidth="40%"
 %}
 
 {% include fullsizebox.html
-image="assets/img/logo-stuttgart.jpg"
+image="assets/img/ 	unistuttgart_logo_englisch_cmyk-01.png"
 align="left"
 imagewidth="40%"
 %}
