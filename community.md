@@ -7,20 +7,20 @@ description: "The Opencast Project thrives off of community engagement, sharing 
 <!-- Lizenzen unsplash.com: https://unsplash.com/license -->
 
 {% include fullsizebox.html
+title="Communication"
+description="Find out how to contact the project, how to get support from the community, and how to get involved in the project. [Read more...](communication)"
+image="assets/img/communication_03.png"
+linkurl="communication"
+align="right"
+%}
+
+{% include fullsizebox.html
 title="Users"
 description="Find out who is using Opencast and read stories on how others use Opencast. [Read more...](users)"
 image="assets/img/eth_studenten_02.png"
 linkurl="users"
 align="right"
 backgroundcolor=site.data.colors.box
-%}
-
-{% include fullsizebox.html
-title="Communication"
-description="Find out how to contact the project, how to get support from the community, and how to get involved in the project. [Read more...](communication)"
-image="assets/img/communication_03.png"
-linkurl="communication"
-align="right"
 %}
 
 {% include fullsizebox.html
@@ -45,6 +45,15 @@ title="People"
 description="These are the people that keep the Opencast community and its software alive. [Read more...](people)"
 image="assets/img/opencast-summit.png"
 linkurl="people"
+align="right"
+backgroundcolor=site.data.colors.box
+%}
+
+{% include fullsizebox.html
+title="Supporters"
+description="These institutions are funding Opencast. [Read more...](supporters)"
+image="assets/img/eth_studenten_02.png"
+linkurl="supporters"
 align="right"
 backgroundcolor=site.data.colors.box
 %}
