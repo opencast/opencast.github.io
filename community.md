@@ -25,7 +25,7 @@ backgroundcolor=site.data.colors.box
 
 {% include fullsizebox.html
 title="Events"
-description="Upcoming events around Opencast; you can also [find](events) recordings from past events here."
+description="Upcoming [events](events) around Opencast; you can also find recordings from past events here."
 image="assets/img/Konferenz_wien_2.jpg"
 linkurl="events"
 align="right"
@@ -42,7 +42,7 @@ backgroundcolor=site.data.colors.box
 
 {% include fullsizebox.html
 title="People"
-description="These are the [people that keep the Opencast community and its software alive](people). "
+description="These are the [people](people) that keep the Opencast community and its software alive. "
 image="assets/img/opencast-summit.png"
 linkurl="people"
 align="right"
