@@ -22,7 +22,7 @@ Committers are active developers or other active contributors that help with the
 - [Stephen Marquard](https://github.com/smarquard)
 - [Sven Stauber](https://github.com/staubesv)
 - [Tobias Schiebeck](https://github.com/ts23)
-- [Waldmar Smirnow](https://github.com/wsmirnow)
+- [Waldemar Smirnow](https://github.com/wsmirnow)
 
 ## Committers Emeritus
 The following people were committers at one time and have contributed to the project, but are no longer active committers.
@@ -68,4 +68,4 @@ The Opencast Community elects a board that looks after the overall status and di
 - Greg Logan, Opencast Consultant (voted representative of the committers)
 - Stephen Marquard, University of Cape Town
 - Carlos Turró Ribalta, Universitat Politécnica de Valencia
-- Rüdiger Rolf, University of Osnabruck
+- Rüdiger Rolf, University of Osnabrück
