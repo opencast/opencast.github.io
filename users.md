@@ -35,7 +35,7 @@ Stuart Phillipson, University of Manchester
 
 > Opencast drastically reduces the time it takes to get educational resources online so end users can interact with content in real-time.
 
-Rüdiger Rolf, University of Osnabrück
+Rüdiger Rolf, Osnabrück University
 
 # Opencast adopters
 These are some of the institutions using Opencast. <a href="mailto:schulte@id.ethz.ch">Drop us a line</a> if you want to know more about any of these. A <a href="https://map.opencast.org/">map</a> of registered users to our repository is also available

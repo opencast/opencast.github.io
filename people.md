@@ -32,23 +32,23 @@ The following people were committers at one time and have contributed to the pro
 - Edmore Moyo, University of Cape Town
 - Eduardo Alonso, University of Vigo
 - Jaime Gago, Entwine
-- Markus Ketterl, University of Osnabrück
-- Markus Moorman, University of Osnabrück
+- Markus Ketterl, Osnabrück University
+- Markus Moorman, Osnabrück University
 - Michelle Ziegmann, University of California Berkeley
-- Stefan Altevogt, University of Osnabrück
+- Stefan Altevogt, Osnabrück University
 - Kristofor Amundson, University of Saskatchewan
-- Johannes Emden, University of Osnabrück
+- Johannes Emden, Osnabrück University
 - Adam Hochman, University of California Berkeley
 - Jamie Hodge, University of Copenhagen
 - Josh Holtzman, University of California Berkeley
-- Andre Klassen, University of Osnabrück
+- Andre Klassen, Osnabrück University
 - Kenneth Lui
 - Susana Ozores, University of Vigo
 - Bostjan Pajntar, Jozef Stefan Institute
 - Nejc Škofič, Jozef Stefan Institute
 - Micah Sutton, University of Nebraska-Lincoln
 - Aaron Zeckoski, Cambridge University
-- Benjamin Wulff, University of Osnabrück
+- Benjamin Wulff, Osnabrück University
 - Adam McKenzie, Entwine/Extron
 - Tobias Wunden, Entwine/Extron
 - Xavier Butty, Entwine/Extron
@@ -68,4 +68,4 @@ The Opencast Community elects a board that looks after the overall status and di
 - Greg Logan, Opencast Consultant (voted representative of the committers)
 - Stephen Marquard, University of Cape Town
 - Carlos Turró Ribalta, Universitat Politécnica de Valencia
-- Rüdiger Rolf, University of Osnabrück
+- Rüdiger Rolf, Osnabrück University
