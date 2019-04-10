@@ -40,6 +40,8 @@ Opencast's roadmap is set by its contributing institutions, so this roadmap chan
 * Update Paella documentation
 * User Interface configuration service
 * Workflow description in the Admin UI
+* Support for Google Speech API for transcriptions and captions
+* Support for Nibity API for transcriptions and captions
 
 ## Opencast 9 (June 2020)
 
