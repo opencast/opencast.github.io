@@ -18,7 +18,7 @@ Its Center for Information Management and virtual Teaching (virtUOS) is managing
 
 The virtUOS started a homegrown lecture recording software back in 2003. In 2008 the homegrown software was dropped to contribute to Opencast. Much of the know how around the player development has been transferred to the Opencast Player. It was very appealing to contribute to a larger project that would become a more flexible and reliable base for future developments.
 
-The University of Osnabrück was the first institution with a production system based on Opencast 1.0 back in 2010. Usually the University of Osnabrück is piloting at least some new features of upcoming Opencast releases (like the video-editor, or the new player).
+Osnabrück University was the first institution with a production system based on Opencast 1.0 back in 2010. Usually Osnabrück University is piloting at least some new features of upcoming Opencast releases (like the video-editor, or the new player).
 
 Additionally the ELAN e.V. that is closely related to the virtUOS, is providing Opencast support for its member institutions and offers also commercial support and development services to other german universities.
 
