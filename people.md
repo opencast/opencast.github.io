@@ -1,5 +1,5 @@
 ---
-title: The People that Keep Opencast Alive
+title: The Ppeople that keep Opencast alive
 description: "Numerous users, contributors, developers, committers, and institutions are actively working to improve Opencast and keep the software and the community alive."
 ---
 {% include community_menu.html %}
@@ -22,7 +22,7 @@ Committers are active developers or other active contributors that help with the
 - [Stephen Marquard](https://github.com/smarquard)
 - [Sven Stauber](https://github.com/staubesv)
 - [Tobias Schiebeck](https://github.com/ts23)
-- [Waldmar Smirnow](https://github.com/wsmirnow)
+- [Waldemar Smirnow](https://github.com/wsmirnow)
 
 ## Committers Emeritus
 The following people were committers at one time and have contributed to the project, but are no longer active committers.
@@ -32,23 +32,23 @@ The following people were committers at one time and have contributed to the pro
 - Edmore Moyo, University of Cape Town
 - Eduardo Alonso, University of Vigo
 - Jaime Gago, Entwine
-- Markus Ketterl, University of Osnabrück
-- Markus Moorman, University of Osnabrück
+- Markus Ketterl, Osnabrück University
+- Markus Moorman, Osnabrück University
 - Michelle Ziegmann, University of California Berkeley
-- Stefan Altevogt, University of Osnabrück
+- Stefan Altevogt, Osnabrück University
 - Kristofor Amundson, University of Saskatchewan
-- Johannes Emden, University of Osnabrück
+- Johannes Emden, Osnabrück University
 - Adam Hochman, University of California Berkeley
 - Jamie Hodge, University of Copenhagen
 - Josh Holtzman, University of California Berkeley
-- Andre Klassen, University of Osnabrück
+- Andre Klassen, Osnabrück University
 - Kenneth Lui
 - Susana Ozores, University of Vigo
 - Bostjan Pajntar, Jozef Stefan Institute
 - Nejc Škofič, Jozef Stefan Institute
 - Micah Sutton, University of Nebraska-Lincoln
 - Aaron Zeckoski, Cambridge University
-- Benjamin Wulff, University of Osnabrück
+- Benjamin Wulff, Osnabrück University
 - Adam McKenzie, Entwine/Extron
 - Tobias Wunden, Entwine/Extron
 - Xavier Butty, Entwine/Extron
@@ -67,63 +67,5 @@ The Opencast Community elects a board that looks after the overall status and di
 - Vicente Goyanes, University of Vigo
 - Greg Logan, Opencast Consultant (voted representative of the committers)
 - Stephen Marquard, University of Cape Town
-- Carlos Turró Ribalta, Universitat Politécnica de Valencia (selected member)
-- Rüdiger Rolf, University of Osnabruck (selected member)
-
-# Our Supporters
-These institutions have provided financial, technical, or personnel suppport to advance the Opencast project. Thank you!
-
-{% include fullsizebox.html
-image="assets/img/eth-logo1.png"
-align="left"
-imagewidth="40%"
-%}
-
-{% include fullsizebox-rechts.html
-image="assets/img/osnabruk.png"
-align="right"
-imagewidth="40%"
-%}
-
-{% include fullsizebox.html
-image="assets/img/Switch600x400.jpg"
-align="left"
-imagewidth="40%"
-%}
-
-{% include fullsizebox-rechts.html
-image="assets/img/logo-university-of-manchester.png"
-align="right"
-imagewidth="40%"
-%}
-
-{% include fullsizebox.html
-image="assets/img/blindside.png"
-align="left"
-imagewidth="40%"
-%}
-
-{% include fullsizebox-rechts.html
-image="assets/img/Valencia600x400.jpg"
-align="right"
-imagewidth="40%"
-%}
-
-{% include fullsizebox.html
-image="assets/img/UCT-round-logo.png"
-align="left"
-imagewidth="40%"
-%}
-
-{% include fullsizebox-rechts.html
-image="assets/img/jira.png"
-align="right"
-imagewidth="40%"
-%}
-
-{% include fullsizebox.html
-image="assets/img/logo-stuttgart.jpg"
-align="left"
-imagewidth="40%"
-%}
-
+- Carlos Turró Ribalta, Universitat Politécnica de Valencia
+- Rüdiger Rolf, Osnabrück University

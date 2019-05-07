@@ -1,7 +1,7 @@
 ---
 title: 2019 Opencast summit
 date: 2019-01-16
-description: January 16th to 18th 2018 in Zurich, Switzerland.
+description: Zurich, Switzerland.
 category: event
 tags: [event, upcoming, summit, community]
 image: assets/img/sta_zentrum_hauptgebaeude_041_small.jpg

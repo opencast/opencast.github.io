@@ -4,34 +4,13 @@ description: Opencast is an open source solution for automated video capture and
 ---
 {% include software_menu.html %}
 
-{% include software.html %}
-
-# Latest Releases
-
-{% for post in site.posts limit:3 %}
-{% if post.categories contains "release" %}
-
-{% include box-start.html 
-  backgroundcolor=site.data.colors.greenbox 
-%}
-
-<h2><a href="{{ post.url | remove_first:'/' }}">{{ post.title }}</a></h2>
-  <i>{{ post.date | date_to_long_string }}</i>
-  <p>{{ post.description }}</p>
-<a href="{{ post.url | remove_first:'/' }}">Read more...</a>
-{% include box-end.html %}
-
-{% endif %}
-{% endfor %}
-
----
 <!-- Lizenzen unsplash.com: https://unsplash.com/license -->
 
 {% include fullsizebox.html
 title="Install Opencast"
-description="Here you will find a test server, installation instructions and the general documenation for Opencast. [Read more…](install)"
+description="Here you will find a test server, installation instructions and the general documenation for Opencast. [Read more…](releases)"
 image="assets/img/software_install.png"
-linkurl="software"
+linkurl="releases"
 align="right"
 %}
 

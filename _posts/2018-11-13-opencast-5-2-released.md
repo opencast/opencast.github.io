@@ -1,11 +1,11 @@
 ---
 title: Opencast 5.2 has been released
 date: 2018-11-13
-description: Please note that this maintainance release contains a breaking configuration change!
+description: Please note that this maintenance release contains a breaking configuration change!
 tags: [release, paella, player, animate, live, scheduler, OAI-PMH, moodle]
 ---
 
-Please note that this maintainance release contains a breaking configuration change. More information can be found in admin [upgrade guide](https://docs.opencast.org/r/5.x/admin/upgrade/#configuration-changes-since-opencast-52) or on the [mailing list](https://groups.google.com/a/opencast.org/forum/#!topic/users/LehzK55BIfU).
+Please note that this maintenance release contains a breaking configuration change. More information can be found in admin [upgrade guide](https://docs.opencast.org/r/5.x/admin/upgrade/#configuration-changes-since-opencast-52) or on the [mailing list](https://groups.google.com/a/opencast.org/forum/#!topic/users/LehzK55BIfU).
 
 
 ### Opencast 5.2
