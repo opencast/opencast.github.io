@@ -74,10 +74,24 @@ imagewidth="40%"
 %}
 
 {% include fullsizebox.html
+title="Edit"
+description="The system offers a powerful linear video editor. All synchronous streams will be edited alike, so that everything stays in sync. 
+
+A zoomable waveform view provides a good overview of the activity within the recording. By default the editor offers an edit list based on an audio analysis, where silent part are already marked for removal.
+
+Within the editor the metadata can be updated, unneeded tracks can be removed and preview-images for the recording can be selected.
+
+The editor can also be controlled with keyboard shortcuts for a fast and efficient editing workflow."
+image="assets/img/videoeditor.png"
+align="left"
+imagewidth="40%"
+%}
+
+{% include fullsizebox.html
 title="Live Streaming"
 description="Opencast has robust, and extraordinarily reliable, support for live streaming of your lectures, provided that your capture agents support it.  Live streams can be scheduled in advance, or on the fly.  Active live streams can be extended or shortened as needed.  For example, Harvard DCE live streams hundreds of hours of lectures each month from their 23 Opencast equipped classrooms with essentially no downtime. "
 image="assets/img/large-playback.jpg"
-align="left"
+align="right"
 backgroundcolor=site.data.colors.box
 imagewidth="40%"
 %}
@@ -92,7 +106,7 @@ description="Opencast Manage provides a dashboard for administrators to configur
 - Bulk editing; media trimming and recording search/filtering
 - Monitoring dashboard; status, performance statistics and technical details"
 image="assets/img/large-manage.jpg"
-align="right"
+align="left"
 imagewidth="40%"
 %}
 
@@ -105,7 +119,8 @@ description="In many cases Opencast is used in teaching and learning scenarios. 
 - Using xAPI, detailed data about how students interact with your Opencast videos can be collected in a standardized format. When a student raises volume, skips a video fragment or watches it again can be captured and analyzed.
 - Opencast also supports common web analytics like visitor profiles, heatmaps, session recording.  These can be generated adding [Matomo](https://matomo.org/) to your Opencast deployment"
 image="assets/img/large-manage.jpg"
-align="left"
+align="right"
+backgroundcolor=site.data.colors.box
 imagewidth="40%"
 %}
 
@@ -125,7 +140,7 @@ Opencast includes sophisticated automation tools for running in AWS, Amazon’s 
 
 - Automated deployment and management of your cluster: with a single command you can automatically create a new cluster from scratch, rollout a new version of Opencast, or turn off your cluster. "
 image="assets/img/large-manage.jpg"
-align="right"
+align="left"
 imagewidth="40%"
 %}
 
