@@ -7,7 +7,7 @@ description: Here are some frequently asked questions regarding Opencast. This w
 {% include simplebox.html backgroundcolor=site.data.colors.box
 content="## How much does it cost?
 
-Opencast is free, open source software. There is no direct cost associated with downloading and deploying the software. As open source software, there is free support from the community on the [Opencast mailing lists](communication.md) and the [Opencast IRC channel](communication.md). If you require enterprise-level support, there are [commercial vendors](support.md) that provide that service. Opencast can run both on premesis, or in the cloud, whichever works better for you!" %}
+Opencast is free, open source software. There is no direct cost associated with downloading and deploying the software. As open source software, there is free support from the community on the [Opencast mailing lists](communication.md) and the [Opencast IRC channel](communication.md). If you require enterprise-level support, there are [commercial vendors](support.md) that provide that service. Opencast can run both on premises, or in the cloud, whichever works better for you!" %}
 
 {% include simplebox.html backgroundcolor=site.data.colors.box
 content="## How long does it take to setup an Opencast system?
