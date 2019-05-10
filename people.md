@@ -1,5 +1,5 @@
 ---
-title: The Ppeople that keep Opencast alive
+title: The People that keep Opencast alive
 description: "Numerous users, contributors, developers, committers, and institutions are actively working to improve Opencast and keep the software and the community alive."
 ---
 {% include community_menu.html %}
