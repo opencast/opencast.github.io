@@ -23,6 +23,8 @@ Committers are active developers or other active contributors that help with the
 - [Sven Stauber](https://github.com/staubesv)
 - [Tobias Schiebeck](https://github.com/ts23)
 - [Waldemar Smirnow](https://github.com/wsmirnow)
+- [Julian Kniephoff](https://github.com/JulianKniephoff)
+- [Maximiliano Lira Del Canto](https://github.com/mliradelc)
 
 ## Committers Emeritus
 The following people were committers at one time and have contributed to the project, but are no longer active committers.
