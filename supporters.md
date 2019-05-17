@@ -56,7 +56,7 @@ imagewidth="40%"
 %}
 
 
-## Infrastructure support
+# Infrastructure support
 
 {% include fullsizebox.html
 image="assets/img/blindside.png"
