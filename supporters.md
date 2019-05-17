@@ -57,14 +57,8 @@ imagewidth="40%"
 
 ## Infrastructure support
 
-{% include fullsizebox.html
 image="assets/img/blindside.png"
 align="left"
-imagewidth="40%"
-%}
 
-{% include fullsizebox-rechts.html
 image="assets/img/jira.png"
 align="right"
-imagewidth="40%"
-%}
