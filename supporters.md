@@ -55,7 +55,6 @@ align="right"
 imagewidth="40%"
 %}
 
-
 # Infrastructure support
 
 {% include fullsizebox.html
