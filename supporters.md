@@ -55,11 +55,7 @@ align="right"
 imagewidth="40%"
 %}
 
-<br>
-<br>
-<br>
-<br>
-<br>
+---
 
 ## Infrastructure support
 
