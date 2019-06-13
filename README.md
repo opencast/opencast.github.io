@@ -1,6 +1,6 @@
-Opencast is a flexible, scalable and reliable video capture, management, and distribution system for academic institutions. Opencast is built by a growing community of developers from leading universities and organizations worldwide.
-
 {% include software.html %}
+
+Opencast is a flexible, scalable and reliable video capture, management, and distribution system for academic institutions. Opencast is built by a growing community of developers from leading universities and organizations worldwide.
 
 ---
 
