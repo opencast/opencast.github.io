@@ -5,7 +5,7 @@ redirect_from: "/software/download"
 ---
 {% include software_menu.html %}
 
-# [Try it!](https://stable.opencast.org/)
+# [Demo](https://stable.opencast.org/)
 
 Want to try Opencast for yourself?  We host a free, fully functional demonstration system with pre-processed media so
 you can experience the Opencast user interface as both an administrator and end-user without having to download,
@@ -15,14 +15,14 @@ and rebuilt nightly.  The credentials for an admin user are *admin* / *opencast*
 __[Administrative user interface](https://stable.opencast.org/)__<br>
 __[Media Module/End user interface](https://stable.opencast.org/engage/ui)__
 
-# [Install it!](https://docs.opencast.org/r/5.x/admin/installation/)
+# [Install](https://docs.opencast.org/r/5.x/admin/installation/)
 Want to run Opencast locally?  Opencast runs on Linux or MacOS servers. There are repositories with binaries available for CentOS (RPM) and Debian (DEB) like distributions. There are also Docker images available. If none of this works for you, you also download the [raw binaries](https://github.com/opencast/opencast/releases), or use our detailed guide on how to build [Opencast from source](https://github.com/opencast/opencast) yourself.
 
 [Installation guide](releases.md)
 
-# Adopt it!
+# Adopt
 Interested in adopting Opencast?  Whether you've only tried the demo system and have questions, or need detailed
-assistance settings up Opencast, there are community, and private resources available.
+assistance settings up Opencast, there are community and commercial resources available help you.
 
 |If you are...|Try this|
 |Faculty member<br><br>Instructional designer<br><br>IT staffer<br><br>Member of a selection committee|__Try Opencast__<br>Anyone can try Opencast using the links above.<br><br>__Explore how others are using Opencast__<br>Browse our [User stories](users.md) or watch some of our [Conference recordings](https://www.youtube.com/channel/UCyKuUY_V_5Em5OSa59AUuVg) to see what others are doing with Opencast in production.<br><br>__Contact the community__<br>Our large community is always happy to talk about both high level and detailed internals of Opencast.  Join the [mailing lists](communication.md) and see for yourself.<br><br>__Attend a community event__<br>Our conferences are hosted annually in January or February, and are the perfect place to meet community memebers running Opencast in production.  All of our adopters are welcome to present, meaning you will see everything from tiny institutions with a one or two rooms, to large 100+ room environemnts.<br><br>__Run an Opencast pilot__<br>Work with the community, or a [commercial support partner](support.md) to set up a low-risk Opencast pilot.  Opencast can even be run in parallel with any legacy lecture capture platform you have installed.  Go hands-on to see how well Opencast works with your institution.<br><br>__Take look at [the documentation](https://docs.opencast.org)__<br>All of our documentation lives [here](https://docs.opencast.org), and is split into three parts.<br>- The Administration documentation explains on how to install, setup and configure Opencast.<br>- The User documentation explains the UI and processes of Opencast.<br>- The Developer contains the general development process and the technologies used in Opencast.|
