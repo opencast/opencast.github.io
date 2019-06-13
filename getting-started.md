@@ -5,17 +5,17 @@ redirect_from: "/software/download"
 ---
 {% include software_menu.html %}
 
-# [Demo](https://stable.opencast.org/)
+# Demo
 
 Want to try Opencast for yourself?  We host a free, fully functional demonstration system with pre-processed media so
 you can experience the Opencast user interface as both an administrator and end-user without having to download,
 install, or configure Opencast yourself.  Feel free to upload your own media as well, because the system is reset
 and rebuilt nightly.  The credentials for an admin user are *admin* / *opencast*.
 
-__[Administrative user interface](https://stable.opencast.org/)__<br>
-__[Media Module/End user interface](https://stable.opencast.org/engage/ui)__
+__[Administrative user interface](https://stable.opencast.org/)
+__[Media Module / end user interface](https://stable.opencast.org/engage/ui)
 
-# [Install](https://docs.opencast.org/r/5.x/admin/installation/)
+# Install
 Want to run Opencast locally?  Opencast runs on Linux or MacOS servers. There are repositories with binaries available for CentOS (RPM) and Debian (DEB) like distributions. There are also Docker images available. If none of this works for you, you also download the [raw binaries](https://github.com/opencast/opencast/releases), or use our detailed guide on how to build [Opencast from source](https://github.com/opencast/opencast) yourself.
 
 [Installation guide](releases.md)
