@@ -12,8 +12,8 @@ you can experience the Opencast user interface as both an administrator and end-
 install, or configure Opencast yourself.  Feel free to upload your own media as well, because the system is reset
 and rebuilt nightly.  The credentials for an admin user are *admin* / *opencast*.
 
-__[Administrative user interface](https://stable.opencast.org/)
-__[Media Module / end user interface](https://stable.opencast.org/engage/ui)
+[Administrative user interface](https://stable.opencast.org/)
+[Media Module / end user interface](https://stable.opencast.org/engage/ui)
 
 # Install
 Want to run Opencast locally?  Opencast runs on Linux or MacOS servers. There are repositories with binaries available for CentOS (RPM) and Debian (DEB) like distributions. There are also Docker images available. If none of this works for you, you also download the [raw binaries](https://github.com/opencast/opencast/releases), or use our detailed guide on how to build [Opencast from source](https://github.com/opencast/opencast) yourself.
