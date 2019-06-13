@@ -12,7 +12,7 @@ you can experience the Opencast user interface as both an administrator and end-
 install, or configure Opencast yourself.  Feel free to upload your own media as well, because the system is reset
 and rebuilt nightly.  The credentials for an admin user are *admin* / *opencast*.
 
-[Administrative user interface](https://stable.opencast.org/)
+[Administrative user interface](https://stable.opencast.org/) <br>
 [Media Module / end user interface](https://stable.opencast.org/engage/ui)
 
 # Install
