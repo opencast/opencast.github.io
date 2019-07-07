@@ -14,7 +14,7 @@ imagewidth="40%"
 %}
 
 {% include fullsizebox-rechts.html
-image="assets/img/osnabruk.png"
+image="assets/img/elan.png"
 align="right"
 imagewidth="40%"
 %}
