@@ -48,7 +48,7 @@ format="large"
 
 {% include imagebox.html
 title="Epiphan"
-description="Epiphan provides a line of hardware audio video solutions to capture, synchronize, encode, record, stream and process multiple types of audio video events."
+description="Epiphan provides a line of hardware audio video solutions to capture, synchronize, encode, record, stream, and process multiple types of audio video events."
 image="assets/img/epiphan.png"
 linkurl="https://epiphan.com"
 linktext="Learn More"
