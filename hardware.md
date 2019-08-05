@@ -89,7 +89,7 @@ format="large"
 {% include imagebox.html
 title="WolfVision"
 description="WolfVision is a developer and manufacturer of innovative systems and services enabling efficient transfer of knowledge."
-image="assets/img/Wolfvision-sponsor_gross.jpg"
+image="assets/img/wolfvision_rgb.jpg"
 linkurl="/https://wolfvision.com"
 linktext="Learn More"
 backgroundcolor=site.data.colors.box
