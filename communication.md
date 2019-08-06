@@ -111,6 +111,12 @@ Last but not least, there is an *adopters’ meeting* for the german-speaking co
 
 "%}
 
+{% include simplebox.html backgroundcolor=site.data.colors.box
+content="## Media Kit
+
+We have two variants on our logos, the [flat white logo](assets/img/opencast-white.svg) (which is invisible on a white background) and the more common [blue and green logo](assets/img/opencast.svg).  We also have an [icon](assets/img/opencast-icon.svg) without any text available.
+
+"%}
 
 
 # Community Calendar
