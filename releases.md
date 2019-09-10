@@ -17,9 +17,9 @@ upgrade time.
 Opencast 6's latest release is [Opencast 6.0](https://github.com/opencast/opencast/releases/tag/6.0).
 Installation instructions can be found in our [documentation](https://docs.opencast.org/r/6.x/admin/installation/).
 
-Opencast 5 will reach **end of support** with the release of Opencast 8 in **December 2019**.
+Opencast 6 will reach **end of support** with the release of Opencast 8 in **December 2019**.
 
-Opencast 5's features and improvements can be found [here](https://docs.opencast.org/r/6.x/admin/releasenotes/).
+Opencast 6's features and improvements can be found [here](https://docs.opencast.org/r/6.x/admin/releasenotes/).
 
 # Opencast 5
 
