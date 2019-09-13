@@ -17,7 +17,7 @@ format="large"
 
 {% include imagebox.html
 title="plapadoo"
-description="A startup that offers software development for Opencast and consulting."
+description="A company that offers software development and consulting for Opencast."
 image="assets/img/plapadoo.png"
 linkurl="/https://en.plapadoo.com"
 linktext="Learn More"
