@@ -4,7 +4,7 @@ date: 2019-10-01
 description: The University of Cape Town (UCT) is a public research university. Founded in 1829, it is the oldest higher education institute in South Africa.  In 2018, 28 600 students were enrolled - with 17 552 undergraduate and 11 048 postgraduate students. 
 category: user
 tags: [user]
-logo: assets/img/uct-logo.png
+logo: assets/img/UCT-round-logo.png
 ---
 
 ## Background
