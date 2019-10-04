@@ -43,7 +43,7 @@ A more recent addition has been captions and transcripts. This is being done in 
 
 
 ### Other recording solutions
-- **One Button Studio**([www.cilt.uct.ac.za/onebuttonstudio](www.cilt.uct.ac.za/onebuttonstudio)): has been custom setup for lecturers to pre-record short online videos. The venue records through the Galicaster capture agent, and ingests the recording to the Opencast server, which is configured via LTI to share the recording to the user through the learning management system.
+- **One Button Studio** ([www.cilt.uct.ac.za/onebuttonstudio](www.cilt.uct.ac.za/onebuttonstudio)): has been custom setup for lecturers to pre-record short online videos. The venue records through the Galicaster capture agent, and ingests the recording to the Opencast server, which is configured via LTI to share the recording to the user through the learning management system.
 - **Clinical Skills:** With a similar system to the One Button Studio, there are Galicaster plugins to adjust the tilt of the camera, and users also normally sign in with their institutional credentials via another Galicaster plugin.
 - **Screen recorder:** Originally started up and used in an initial pilot phase, this screen recorder has since been enhanced by other institutions ([https://github.com/elan-ev/opencast-studio](https://github.com/elan-ev/opencast-studio)). This is not yet put in production but will be looking at adding it in soon.
 
