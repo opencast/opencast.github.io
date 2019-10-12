@@ -14,7 +14,7 @@ upgrade time.
 
 # Latest
 
-The latest releases of Opencast are available on github at https://github.com/opencast/opencast/releases/
+The [latest releases](https://github.com/opencast/opencast/releases/) are available on github.
 
 # Opencast 7
 
