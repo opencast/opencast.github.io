@@ -94,7 +94,7 @@ title="Opencast Annotating Tool"
 description="The Opencast Annotating Tool is a free and open-source annotation tool. The aim of this software is provide teacher and learners with an easy to use tool to annotate videos.
 
 [Opencast Annotating Tool Homepage](https://github.com/opencast/annotation-tool)"
-image="assets/img/annotationtool.png"
+image="assets/img/oat-screenshot.png"
 linkurl="https://github.com/opencast/annotation-tool"
 align="left"
 imagewidth="50%"
