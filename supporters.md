@@ -66,3 +66,10 @@ image="assets/img/jira.png"
 align="right"
 imagewidth="40%"
 %}
+
+
+{% include fullsizebox-rechts.html
+image="assets/img/hft-stuttgart-logo.png.png"
+align="right"
+imagewidth="40%"
+%}
