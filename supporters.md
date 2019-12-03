@@ -46,13 +46,13 @@ imagewidth="40%"
 {% include fullsizebox.html
 image="assets/img/logo-stuttgart.png"
 align="left"
-imagewidth="40%"
+imagewidth="30%"
 %}
 
 {% include fullsizebox-rechts.html
 image="assets/img/logo_UGent_EN_RGB_2400_kleur_witbg.png"
 align="right"
-imagewidth="30%"
+imagewidth="40%"
 %}
 
 {% include fullsizebox.html
