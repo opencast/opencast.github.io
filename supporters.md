@@ -68,8 +68,8 @@ imagewidth="40%"
 %}
 
 
-{% include fullsizebox-rechts.html
+{% include fullsizebox.html
 image="assets/img/hft-stuttgart-logo.png.png"
-align="right"
+align="left"
 imagewidth="40%"
 %}
