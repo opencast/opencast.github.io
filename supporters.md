@@ -52,7 +52,7 @@ imagewidth="40%"
 {% include fullsizebox-rechts.html
 image="assets/img/logo_UGent_EN_RGB_2400_kleur_witbg.png"
 align="right"
-imagewidth="40%"
+imagewidth="30%"
 %}
 
 {% include fullsizebox.html
