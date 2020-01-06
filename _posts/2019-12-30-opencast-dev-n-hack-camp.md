@@ -40,3 +40,13 @@ idea and try. No idea? Come anyway and help someone else to realize their idea.
 If you are interested, register now:
 
 - [Opencast Dev'n'Hack Camp – Registration](https://docs.google.com/forms/d/e/1FAIpQLSeR71zv1FjyT71TO1as4cKHLjVyRDrduN2IRZLdMgB1U_m50Q/viewform)
+
+## Venue
+
+Campus Sterre<br>
+Building S9<br>
+Room Multimedia<br>
+Krijgslaan 281<br>
+9000 Ghent, Belgium
+
+[View on Google Maps](https://goo.gl/maps/s69VGLzL9TvSy4tT8)
