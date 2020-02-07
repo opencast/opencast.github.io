@@ -16,16 +16,6 @@ format="large"
 %}
 
 {% include imagebox.html
-title="plapadoo"
-description="A company that offers software development and consulting for Opencast."
-image="assets/img/plapadoo.png"
-linkurl="/https://en.plapadoo.com"
-linktext="Learn More"
-backgroundcolor=site.data.colors.box
-format="large"
-%}
-
-{% include imagebox.html
 title="ssystems!"
 description="ssystems! offer support in integrating Opencast with other campus systems."
 image="assets/img/ssystems.png"
