@@ -6,7 +6,9 @@ description: "Conferences and workshops organized by the Opencast community and/
 
 # Upcoming Events
 
-2019 [Meeting of the German-speaking community](https://www.uni-muenster.de/OC-DACH/), September 12-13, Munster, Germany.
+- [2020 Opencast Dev'n'Hack Camp](https://docs.google.com/forms/d/e/1FAIpQLSeR71zv1FjyT71TO1as4cKHLjVyRDrduN2IRZLdMgB1U_m50Q/viewform),
+  February 3-4 at Ghent University, Belgium
+- [2020 Opencast summit](https://oc2020.ugent.be/), February 5-7, Ghent, Belgium.
 
 ---
 

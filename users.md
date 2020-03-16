@@ -92,6 +92,7 @@ content="## Europe
 -	Universität Vechta, Germany
 -	Universität Wien, Austria
 -	Universität zu Köln, Germany
+- Université Clermont Auvergne, France
 -	University of Bergen, Norway
 -	University of Gent, Belgium
 -	University of Granada, Spain
@@ -103,23 +104,23 @@ content="## Europe
 -	University of Sussex, UK
 -	University of the Arts London, UK
 -	University of Vigo, Spain
-- Université Clermont Auvergne, France
 
 " %}
 
 {% include simplebox.html backgroundcolor=site.data.colors.box
 content="## Rest of the world
 
-- Bagley College of Engineering, USA
-- University of Cape Town, South Africa
-- Harvard DCE, USA
-- North-West University, South Africa
-- Rochester IT, USA
-- Universidad Continental de Perú, Perú
-- University of New Mexico, USA
 - University of Ottawa, Canada
-- University of the South Pacific, Fiji
 - University of Toronto Dentistry, Canada
+- Harvard DCE, USA
+- Bagley College of Engineering, USA
+- Rochester IT, USA
+- University of New Mexico, USA
+- Universidad Continental de Perú, Perú
+- Universidad de la República, Montevideo, Uruguay
+- University of Cape Town, South Africa
+- North-West University, South Africa
+- University of the South Pacific, Fiji
 
 
 "%}

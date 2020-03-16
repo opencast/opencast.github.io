@@ -12,9 +12,22 @@ and likely require administrative time to install and update.  Minor patch relea
 only bug fixes and performance improvements.  These releases should be drop in replacements and should require minimal
 upgrade time.
 
+# Latest
+
+The [latest releases](https://github.com/opencast/opencast/releases/) are available on github.
+
+# Opencast 7
+
+Opencast 7's latest release is [Opencast 7.4](https://github.com/opencast/opencast/releases/tag/7.4).
+Installation instructions can be found in our [documentation](https://docs.opencast.org/r/7x.x/admin/installation/).
+
+Opencast 7 will reach **end of support** with the release of Opencast 9 in **June 2020**.
+
+Opencast 7's features and improvements can be found [here](https://docs.opencast.org/r/7.x/admin/releasenotes/).
+
 # Opencast 6
 
-Opencast 6's latest release is [Opencast 6.0](https://github.com/opencast/opencast/releases/tag/6.0).
+Opencast 6's latest release is [Opencast 6.6](https://github.com/opencast/opencast/releases/tag/6.6).
 Installation instructions can be found in our [documentation](https://docs.opencast.org/r/6.x/admin/installation/).
 
 Opencast 6 will reach **end of support** with the release of Opencast 8 in **December 2019**.
@@ -26,7 +39,7 @@ Opencast 6's features and improvements can be found [here](https://docs.opencast
 Opencast 5's latest release is [Opencast 5.2](https://github.com/opencast/opencast/releases/tag/5.2).
 Installation instructions can be found in our [documentation](https://docs.opencast.org/r/5.x/admin/installation/).
 
-Opencast 5 will reach **end of support** with the release of Opencast 7 in **June 2019**.
+Opencast 5 **has reached end of support** with the release of Opencast 7 in **June 2019**.
 
 Opencast 5's features and improvements can be found [here](https://docs.opencast.org/r/5.x/admin/releasenotes/).
 
