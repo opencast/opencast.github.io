@@ -19,7 +19,7 @@ The [latest releases](https://github.com/opencast/opencast/releases/) are availa
 # Opencast 7
 
 Opencast 7's latest release is [Opencast 7.4](https://github.com/opencast/opencast/releases/tag/7.4).
-Installation instructions can be found in our [documentation](https://docs.opencast.org/r/7x.x/admin/installation/).
+Installation instructions can be found in our [documentation](https://docs.opencast.org/r/7.x/admin/installation/).
 
 Opencast 7 will reach **end of support** with the release of Opencast 9 in **June 2020**.
 
