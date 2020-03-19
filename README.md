@@ -8,6 +8,9 @@ Opencast is a flexible, scalable and reliable video capture, management, and dis
 
 {% include videoplayer.html id="57a2b005-fe70-4566-a234-aa864faf1e29" %}
 
+## Opencast Studio Introduction
+
+{% include videoplayer.html id="1cc99170-f4fa-4ede-b755-fb8213b61793" %}
 ---
 
 # News
@@ -89,4 +92,3 @@ align="right"
 Opencast has an active, helpful and engaging community. [Here you can find information on how to get in contact with us](communication).
 
 ---
-
