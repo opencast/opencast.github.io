@@ -1,7 +1,7 @@
 ---
 title: Webinar Recordings
 date: 2020-03-23
-description: recordings for a number of webinars: Studio, Scaling, BigBlueButton
+description: recordings for a number of webinars about Studio, scaling, BigBlueButton, …
 category: webinar
 tags: [webinar]
 ---
