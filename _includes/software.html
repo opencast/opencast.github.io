@@ -1,23 +1,32 @@
-<div class="content-block"> 
+<div class="content-block">
   <a href="getting-started#try-it">
     <div class="software-button" target="_blank">
       <h3 class="button-headline">Demo</h3>
       <img class="button-image" src="assets/img/try-it.jpg"/>
     </div>
   </a>
-  
-  <a href="releases">
+
+  <a id="installbtn" href="releases">
     <div class="software-button" >
       <h3 class="button-headline">Install</h3>
       <img class="button-image" src="assets/img/install-it.jpg"/>
     </div>
-  </a>  
-  
+  </a>
+
   <a href="getting-started#adopt-it" target="_blank">
     <div class="software-button" >
       <h3 class="button-headline">Adopt</h3>
       <img class="button-image" src="assets/img/use-it.jpg"/>
     </div>
-  </a>  
+  </a>
 </div>
 <div class="content-more"><a href="getting-started" style="float:right;">More…</a></div>
+
+<script type="application/javascript" src="https://docs.opencast.org/versions.js"></script>
+<script type="application/javascript">
+document.addEventListener("DOMContentLoaded", function() {
+  let latest = versions[1],
+      docs = 'https://docs.opencast.org/' + latest + '/admin/#installation/';
+  document.getElementById('installbtn').href = docs;
+});
+</script>
