@@ -16,50 +16,7 @@ upgrade time.
 
 The [latest releases](https://github.com/opencast/opencast/releases/) are available on github.
 
-# Opencast 7
+# Support
 
-Opencast 7's latest release is [Opencast 7.4](https://github.com/opencast/opencast/releases/tag/7.4).
-Installation instructions can be found in our [documentation](https://docs.opencast.org/r/7.x/admin/installation/).
-
-Opencast 7 will reach **end of support** with the release of Opencast 9 in **June 2020**.
-
-Opencast 7's features and improvements can be found [here](https://docs.opencast.org/r/7.x/admin/releasenotes/).
-
-# Opencast 6
-
-Opencast 6's latest release is [Opencast 6.6](https://github.com/opencast/opencast/releases/tag/6.6).
-Installation instructions can be found in our [documentation](https://docs.opencast.org/r/6.x/admin/installation/).
-
-Opencast 6 will reach **end of support** with the release of Opencast 8 in **December 2019**.
-
-Opencast 6's features and improvements can be found [here](https://docs.opencast.org/r/6.x/admin/releasenotes/).
-
-# Opencast 5
-
-Opencast 5's latest release is [Opencast 5.2](https://github.com/opencast/opencast/releases/tag/5.2).
-Installation instructions can be found in our [documentation](https://docs.opencast.org/r/5.x/admin/installation/).
-
-Opencast 5 **has reached end of support** with the release of Opencast 7 in **June 2019**.
-
-Opencast 5's features and improvements can be found [here](https://docs.opencast.org/r/5.x/admin/releasenotes/).
-
-
-# Opencast 4
-
-Opencast 4's latest release is [Opencast 4.5](https://github.com/opencast/opencast/releases/tag/4.5).
-Installation instructions can be found in our [documentation](https://docs.opencast.org/r/4.x/admin/installation/).
-
-Opencast 4 **has reached end of support** with the release of Opencast 6 in **December 2018**.
-
-Opencast 4's features and improvements can be found [here](https://docs.opencast.org/r/4.x/admin/releasenotes/).
-
-
-# Opencast 3
-
-Opencast 3's latest release is [Opencast 3.7](https://github.com/opencast/opencast/releases/tag/3.7).
-Installation instructions can be found in our [documentation](https://docs.opencast.org/r/3.x/admin/installation/).
-
-Opencast 3 **has reached end of support** with the release of Opencast 5 in **Jun 2018**.
-
-Opencast 3's features and improvements can be found [here](https://docs.opencast.org/r/3.x/admin/releasenotes/).
-
+An Opencast version is supported until the second subsequent major release.  With our current release dates, that means
+a given release is formally supported for one year.
