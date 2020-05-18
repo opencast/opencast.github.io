@@ -6,15 +6,13 @@ description: "Conferences and workshops organized by the Opencast community and/
 
 # Upcoming Events
 
-- [2020 Opencast Dev'n'Hack Camp](https://docs.google.com/forms/d/e/1FAIpQLSeR71zv1FjyT71TO1as4cKHLjVyRDrduN2IRZLdMgB1U_m50Q/viewform),
-  February 3-4 at Ghent University, Belgium
-- [2020 Opencast summit](https://oc2020.ugent.be/), February 5-7, Ghent, Belgium.
+- [Open Apereo 2020 Online](http://conference.apereo.org/), June 15-19, Online.
 
 ---
 
 # Past Events
 
-2019 Opencast summit: Thanks to ETH Zürich and SWITCH for hosting the 2018 Opencast Summit. Recordings are [online](https://www.video.ethz.ch/events/opencast/2019/zurich.html) in the Opencast video archive.
+2020 Opencast summit: Thanks to Ghent University for hosting the 2020 Opencast Summit. Recordings are [online](https://video.ethz.ch/events/opencast/2020/gent.html) in the Opencast video archive.
 
 <br>
 
