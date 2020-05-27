@@ -1,7 +1,7 @@
 ---
 title: Opencast 8.3 has been released
 date: 2020-03-26
-description: Opencast 7 maintenance release
+description: Opencast 8 maintenance release
 tags: [release, maintenance]
 ---
 
