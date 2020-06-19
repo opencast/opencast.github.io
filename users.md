@@ -49,6 +49,7 @@ content="## Europe
 -	FAU Erlangen-Nürnberg, Germany
 -	FH Potsdam, Germany
 -	Fresenius Hochschule, Germany
+- Friedrich-Schiller-Universität Jena, Germany
 -	HAWK Hildesheim, Germany
 -	Hochschule für Technik Stuttgart, Germany
 -	Hochschule Hannover, Germany
