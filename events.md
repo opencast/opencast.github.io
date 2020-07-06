@@ -4,9 +4,19 @@ description: "Conferences and workshops organized by the Opencast community and/
 ---
 {% include community_menu.html %}
 
-# Upcoming Events
+# Webinars
 
-- [Open Apereo 2020 Online](http://conference.apereo.org/), June 15-19, Online.
+Opencast has online meetings and webinars on a regular basis.
+Announcements of webinars will usually happen on list but will also be added to the community calendar.
+
+If you are interested in a specific topic, feel free to ask for a webinar on list.
+Particularly as part of the adopters meeting, request will often be honored.
+
+The sessions are recorded.
+The availability of recordings is announced on list soon after the events,
+but they can also eventually be found in the recordings archive at ETH:
+
+- [Archive of recent webinar recordings](https://video.ethz.ch/events/opencast/webinars.html)
 
 ---
 
