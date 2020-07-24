@@ -4,6 +4,13 @@ description: "Conferences and workshops organized by the Opencast community and/
 ---
 {% include community_menu.html %}
 
+# Digital Conference 2020
+
+The german-speaking community meeting will be an online event from September 7th to 11th 2020. There will be daily conferences for 2-3 hours on various subjects.
+
+[Opencast D/A/CH Meeting website](https://www.uibk.ac.at/zid/opencast-dach-2020/)
+
+
 # Webinars
 
 Opencast has online meetings and webinars on a regular basis.
