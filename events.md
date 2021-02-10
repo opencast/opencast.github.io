@@ -4,6 +4,15 @@ description: "Conferences and workshops organized by the Opencast community and/
 ---
 {% include community_menu.html %}
 
+# 2021 Virtual Opencast Summit
+
+The international Opencast summit 2021 will be hosted virtually on __April 6-9, 2021__ by TU Graz, Austria.
+
+You are invited to participate if you are interested in the use and management of academic video in general and Opencast in particular.
+For more information, visit the conference website at:
+
+- [ocs21.tugraz.at](https://ocs21.tugraz.at/)
+
 # Digital Conference 2020
 
 The german-speaking community meeting will be an online event from September 7th to 11th 2020. There will be daily conferences for 2-3 hours on various subjects.
@@ -34,7 +43,7 @@ but they can also eventually be found in the recordings archive at ETH:
 <br>
 
 {% include fullsizebox.html
-title="Conferences and Workshops"
+title="Conferences and Workshops" 
 description="There is one major annual meeting, the __Opencast Summit__. While this used to be an unconference with an open agenda, we are trying to mix planned sessions with open slots these days, based on feedback we got from the community. Usually, there will be a call for participation to the community with a selection of presentations submitted (if necessary) so that a programme is set a couple of weeks before the event. To maintain the \"unconference style\" there will be empty slots for ad hoc sessions or open discussions. Besides the presentation slot(s) we usually organize a vendor showcase for the latest capture agent technology and service provider offerings.
 
 Plus, there are __regional Opencast meetings__. The German-speaking community for example meets once or twice a year for a workshop.
